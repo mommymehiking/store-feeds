@@ -17,7 +17,6 @@
       "currency": "USD",
       "variants": [
         {
-          "sku": "SQ8676915",
           "options": {
             "Household": "Single-income family",
             "Children": "1",
@@ -28,7 +27,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ0828896",
           "options": {
             "Household": "Single-income family",
             "Children": "1",
@@ -39,7 +37,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ9918775",
           "options": {
             "Household": "Single-income family",
             "Children": "2",
@@ -50,7 +47,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ0523248",
           "options": {
             "Household": "Single-income family",
             "Children": "2",
@@ -61,7 +57,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ8973748",
           "options": {
             "Household": "Single-income family",
             "Children": "3",
@@ -72,7 +67,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ2052293",
           "options": {
             "Household": "Single-income family",
             "Children": "3",
@@ -83,7 +77,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ7974207",
           "options": {
             "Household": "Single-income family",
             "Children": "4",
@@ -94,7 +87,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ3754181",
           "options": {
             "Household": "Single-income family",
             "Children": "4",
@@ -105,7 +97,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ5330488",
           "options": {
             "Household": "Single-income family",
             "Children": "5+",
@@ -116,7 +107,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ5360435",
           "options": {
             "Household": "Single-income family",
             "Children": "5+",
@@ -127,7 +117,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ3396533",
           "options": {
             "Household": "Dual-income family",
             "Children": "1",
@@ -138,7 +127,6 @@
           "stock": 7
         },
         {
-          "sku": "SQ4833073",
           "options": {
             "Household": "Dual-income family",
             "Children": "1",
@@ -149,7 +137,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ2541256",
           "options": {
             "Household": "Dual-income family",
             "Children": "2",
@@ -160,7 +147,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ1317798",
           "options": {
             "Household": "Dual-income family",
             "Children": "2",
@@ -171,7 +157,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ7674935",
           "options": {
             "Household": "Dual-income family",
             "Children": "3",
@@ -182,7 +167,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ4836484",
           "options": {
             "Household": "Dual-income family",
             "Children": "3",
@@ -193,7 +177,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ9548743",
           "options": {
             "Household": "Dual-income family",
             "Children": "4",
@@ -204,7 +187,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ3265562",
           "options": {
             "Household": "Dual-income family",
             "Children": "4",
@@ -215,7 +197,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ9971947",
           "options": {
             "Household": "Dual-income family",
             "Children": "5+",
@@ -226,7 +207,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ6721778",
           "options": {
             "Household": "Dual-income family",
             "Children": "5+",
@@ -237,7 +217,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ9643102",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "1",
@@ -248,7 +227,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ8970961",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "1",
@@ -259,7 +237,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ6553447",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "2",
@@ -270,7 +247,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ3173701",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "2",
@@ -281,7 +257,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ3798253",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "3",
@@ -292,7 +267,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ6253078",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "3",
@@ -303,7 +277,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ9538141",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "4",
@@ -314,7 +287,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ2151521",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "4",
@@ -325,7 +297,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ1347284",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "5+",
@@ -336,7 +307,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ4512437",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "5+",
@@ -374,7 +344,6 @@
       "currency": "USD",
       "variants": [
         {
-          "sku": "SQ3578653",
           "options": {
             "Household": "Single-income family",
             "Children": "Up to 2",
@@ -385,7 +354,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ0054360",
           "options": {
             "Household": "Single-income family",
             "Children": "Up to 2",
@@ -396,7 +364,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ5486340",
           "options": {
             "Household": "Single-income family",
             "Children": "3",
@@ -407,7 +374,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ2216529",
           "options": {
             "Household": "Single-income family",
             "Children": "3",
@@ -418,7 +384,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ8604243",
           "options": {
             "Household": "Single-income family",
             "Children": "4",
@@ -429,7 +394,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ4167575",
           "options": {
             "Household": "Single-income family",
             "Children": "4",
@@ -440,7 +404,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ7522659",
           "options": {
             "Household": "Single-income family",
             "Children": "5+",
@@ -451,7 +414,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ0247571",
           "options": {
             "Household": "Single-income family",
             "Children": "5+",
@@ -462,7 +424,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ8887903",
           "options": {
             "Household": "Dual-income family",
             "Children": "Up to 2",
@@ -473,7 +434,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ1354132",
           "options": {
             "Household": "Dual-income family",
             "Children": "Up to 2",
@@ -484,7 +444,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ6729456",
           "options": {
             "Household": "Dual-income family",
             "Children": "3",
@@ -495,7 +454,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ6608508",
           "options": {
             "Household": "Dual-income family",
             "Children": "3",
@@ -506,7 +464,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ8243095",
           "options": {
             "Household": "Dual-income family",
             "Children": "4",
@@ -517,7 +474,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ0800660",
           "options": {
             "Household": "Dual-income family",
             "Children": "4",
@@ -528,7 +484,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ2769729",
           "options": {
             "Household": "Dual-income family",
             "Children": "5+",
@@ -539,7 +494,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ9350188",
           "options": {
             "Household": "Dual-income family",
             "Children": "5+",
@@ -550,7 +504,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ9968924",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "Up to 2",
@@ -561,7 +514,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ2092223",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "Up to 2",
@@ -572,7 +524,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ9712277",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "3",
@@ -583,7 +534,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ8314558",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "3",
@@ -594,7 +544,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ2875374",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "4",
@@ -605,7 +554,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ6745436",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "4",
@@ -616,7 +564,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ0086469",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "5+",
@@ -627,7 +574,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ4767982",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "5+",
@@ -665,7 +611,6 @@
       "currency": "USD",
       "variants": [
         {
-          "sku": "SQ2544842",
           "options": {
             "Pricing Types": "EARLY BIRD-First-Class: Dome: Ages 3+"
           },
@@ -674,7 +619,6 @@
           "stock": 0
         },
         {
-          "sku": "SQ2016687",
           "options": {
             "Pricing Types": "EARLY BIRD-First-Class: Dome: Ages 0-2"
           },
@@ -683,7 +627,6 @@
           "stock": 0
         },
         {
-          "sku": "SQ2605808",
           "options": {
             "Pricing Types": "EARLY BIRD-First-Class: Parlor: Ages 3+"
           },
@@ -692,7 +635,6 @@
           "stock": 0
         },
         {
-          "sku": "SQ7518667",
           "options": {
             "Pricing Types": "EARLY BIRD-First-Class: Parlor: Ages 0-2"
           },
@@ -701,7 +643,6 @@
           "stock": 0
         },
         {
-          "sku": "SQ1174586",
           "options": {
             "Pricing Types": "EARLY BIRD-General (open seating): Ages 3+"
           },
@@ -710,7 +651,6 @@
           "stock": 68
         },
         {
-          "sku": "SQ4040123",
           "options": {
             "Pricing Types": "EARLY BIRD-General (open seating): Ages 0-2"
           },
@@ -719,7 +659,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ7074457",
           "options": {
             "Pricing Types": "(After Oct. 1)-First-Class: Dome: Ages 3+"
           },
@@ -728,7 +667,6 @@
           "stock": 0
         },
         {
-          "sku": "SQ8645173",
           "options": {
             "Pricing Types": "(After Oct. 1): First-Class: Dome: Ages 0-2"
           },
@@ -737,7 +675,6 @@
           "stock": 0
         },
         {
-          "sku": "SQ7534576",
           "options": {
             "Pricing Types": "(After Oct. 1)-First-Class: Parlor: Ages 3+"
           },
@@ -746,7 +683,6 @@
           "stock": 0
         },
         {
-          "sku": "SQ7726040",
           "options": {
             "Pricing Types": "(After Oct. 1): First-Class: Parlor: Ages 0-2"
           },
@@ -755,7 +691,6 @@
           "stock": 0
         },
         {
-          "sku": "SQ0888002",
           "options": {
             "Pricing Types": "(After Oct. 1): General (open seating): Ages 3+"
           },
@@ -764,7 +699,6 @@
           "stock": 0
         },
         {
-          "sku": "SQ1272150",
           "options": {
             "Pricing Types": "(After Oct. 1): General (open seating): Ages 0-2"
           },
@@ -773,7 +707,6 @@
           "stock": 0
         },
         {
-          "sku": "SQ0862707",
           "options": {
             "Pricing Types": "Every 10th"
           },
@@ -821,7 +754,6 @@
       "currency": "USD",
       "variants": [
         {
-          "sku": "SQ9989284",
           "options": {
             "Household": "Single-income family",
             "Children": "Up to 2",
@@ -832,7 +764,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ8947831",
           "options": {
             "Household": "Single-income family",
             "Children": "Up to 2",
@@ -843,7 +774,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ0404552",
           "options": {
             "Household": "Single-income family",
             "Children": "3",
@@ -854,7 +784,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ9599163",
           "options": {
             "Household": "Single-income family",
             "Children": "3",
@@ -865,7 +794,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ8284386",
           "options": {
             "Household": "Single-income family",
             "Children": "4",
@@ -876,7 +804,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ4874641",
           "options": {
             "Household": "Single-income family",
             "Children": "4",
@@ -887,7 +814,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ8244211",
           "options": {
             "Household": "Single-income family",
             "Children": "5+",
@@ -898,7 +824,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ8190107",
           "options": {
             "Household": "Single-income family",
             "Children": "5+",
@@ -909,7 +834,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ0477030",
           "options": {
             "Household": "Dual-income family",
             "Children": "Up to 2",
@@ -920,7 +844,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ0877600",
           "options": {
             "Household": "Dual-income family",
             "Children": "Up to 2",
@@ -931,7 +854,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ0931990",
           "options": {
             "Household": "Dual-income family",
             "Children": "3",
@@ -942,7 +864,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ5792129",
           "options": {
             "Household": "Dual-income family",
             "Children": "3",
@@ -953,7 +874,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ9554945",
           "options": {
             "Household": "Dual-income family",
             "Children": "4",
@@ -964,7 +884,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ6217163",
           "options": {
             "Household": "Dual-income family",
             "Children": "4",
@@ -975,7 +894,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ3797056",
           "options": {
             "Household": "Dual-income family",
             "Children": "5+",
@@ -986,7 +904,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ6779005",
           "options": {
             "Household": "Dual-income family",
             "Children": "5+",
@@ -997,7 +914,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ4150786",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "Up to 2",
@@ -1008,7 +924,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ0163950",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "Up to 2",
@@ -1019,7 +934,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ6149316",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "3",
@@ -1030,7 +944,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ2391562",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "3",
@@ -1041,7 +954,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ7748762",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "4",
@@ -1052,7 +964,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ1554569",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "4",
@@ -1063,7 +974,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ2101169",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "5+",
@@ -1074,7 +984,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ4419563",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "5+",
@@ -1112,7 +1021,6 @@
       "currency": "USD",
       "variants": [
         {
-          "sku": "SQ7653842",
           "options": {
             "Pricing Types": "(EARLY BIRD until TUESDAY OCT 6): ONE CAMPER  Fri-Sun"
           },
@@ -1121,7 +1029,6 @@
           "stock": 18
         },
         {
-          "sku": "SQ0586114",
           "options": {
             "Pricing Types": "(AFTER TUESDAY OCT 6): ONE CAMPER Fri-Sun"
           },
@@ -1157,7 +1064,6 @@
       "currency": "USD",
       "variants": [
         {
-          "sku": "SQ5373750",
           "options": {
             "Household": "Single-income family",
             "Children": "Up to 2",
@@ -1168,7 +1074,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ6135174",
           "options": {
             "Household": "Single-income family",
             "Children": "Up to 2",
@@ -1179,7 +1084,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ9023703",
           "options": {
             "Household": "Single-income family",
             "Children": "3",
@@ -1190,7 +1094,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ3704823",
           "options": {
             "Household": "Single-income family",
             "Children": "3",
@@ -1201,7 +1104,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ0272291",
           "options": {
             "Household": "Single-income family",
             "Children": "4",
@@ -1212,7 +1114,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ0114780",
           "options": {
             "Household": "Single-income family",
             "Children": "4",
@@ -1223,7 +1124,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ2391734",
           "options": {
             "Household": "Single-income family",
             "Children": "5+",
@@ -1234,7 +1134,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ9337962",
           "options": {
             "Household": "Single-income family",
             "Children": "5+",
@@ -1245,7 +1144,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ2218823",
           "options": {
             "Household": "Dual-income family",
             "Children": "Up to 2",
@@ -1256,7 +1154,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ8562305",
           "options": {
             "Household": "Dual-income family",
             "Children": "Up to 2",
@@ -1267,7 +1164,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ4008906",
           "options": {
             "Household": "Dual-income family",
             "Children": "3",
@@ -1278,7 +1174,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ3563434",
           "options": {
             "Household": "Dual-income family",
             "Children": "3",
@@ -1289,7 +1184,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ6855912",
           "options": {
             "Household": "Dual-income family",
             "Children": "4",
@@ -1300,7 +1194,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ1792587",
           "options": {
             "Household": "Dual-income family",
             "Children": "4",
@@ -1311,7 +1204,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ4704068",
           "options": {
             "Household": "Dual-income family",
             "Children": "5+",
@@ -1322,7 +1214,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ3752677",
           "options": {
             "Household": "Dual-income family",
             "Children": "5+",
@@ -1333,7 +1224,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ2159878",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "Up to 2",
@@ -1344,7 +1234,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ7627715",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "Up to 2",
@@ -1355,7 +1244,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ4522734",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "3",
@@ -1366,7 +1254,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ3879235",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "3",
@@ -1377,7 +1264,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ5636616",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "4",
@@ -1388,7 +1274,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ4978773",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "4",
@@ -1399,7 +1284,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ1921401",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "5+",
@@ -1410,7 +1294,6 @@
           "unlimited": true
         },
         {
-          "sku": "SQ7602887",
           "options": {
             "Household": "Every 10th spot (free)",
             "Children": "5+",
@@ -1448,7 +1331,6 @@
       "currency": "USD",
       "variants": [
         {
-          "sku": "SQ2810196",
           "options": {
             "Household": "Single-income family",
             "Children": "Up to 2",
@@ -1459,7 +1341,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ5170785",
           "options": {
             "Household": "Single-income family",
             "Children": "Up to 2",
@@ -1470,7 +1351,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ6566233",
           "options": {
             "Household": "Single-income family",
             "Children": "3",
@@ -1481,7 +1361,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ6277479",
           "options": {
             "Household": "Single-income family",
             "Children": "3",
@@ -1492,7 +1371,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ2957101",
           "options": {
             "Household": "Single-income family",
             "Children": "4",
@@ -1503,7 +1381,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ5514912",
           "options": {
             "Household": "Single-income family",
             "Children": "4",
@@ -1514,7 +1391,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ6547958",
           "options": {
             "Household": "Single-income family",
             "Children": "5+",
@@ -1525,7 +1401,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ8237266",
           "options": {
             "Household": "Single-income family",
             "Children": "5+",
@@ -1536,7 +1411,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ9293177",
           "options": {
             "Household": "Dual-income family",
             "Children": "Up to 2",
@@ -1547,7 +1421,6 @@
           "stock": 7
         },
         {
-          "sku": "SQ7719366",
           "options": {
             "Household": "Dual-income family",
             "Children": "Up to 2",
@@ -1558,7 +1431,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ2126467",
           "options": {
             "Household": "Dual-income family",
             "Children": "3",
@@ -1569,7 +1441,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ4635089",
           "options": {
             "Household": "Dual-income family",
             "Children": "3",
@@ -1580,7 +1451,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ0716107",
           "options": {
             "Household": "Dual-income family",
             "Children": "4",
@@ -1591,7 +1461,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ6372125",
           "options": {
             "Household": "Dual-income family",
             "Children": "4",
@@ -1602,7 +1471,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ6738312",
           "options": {
             "Household": "Dual-income family",
             "Children": "5+",
@@ -1613,7 +1481,6 @@
           "stock": 8
         },
         {
-          "sku": "SQ3326742",
           "options": {
             "Household": "Dual-income family",
             "Children": "5+",
