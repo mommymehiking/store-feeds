@@ -632,7 +632,7 @@
           },
           "price": "56.00",
           "on_sale": false,
-          "stock": 68
+          "stock": 0
         },
         {
           "options": {
@@ -640,7 +640,7 @@
           },
           "price": "16.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -680,7 +680,7 @@
           },
           "price": "66.00",
           "on_sale": false,
-          "stock": 0
+          "stock": 42
         },
         {
           "options": {
@@ -688,7 +688,7 @@
           },
           "price": "26.00",
           "on_sale": false,
-          "stock": 0
+          "unlimited": true
         },
         {
           "options": {
