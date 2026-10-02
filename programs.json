@@ -26,8 +26,7 @@
           "price": "480.00",
           "sale_price": "0.00",
           "on_sale": false,
-          "unlimited": true,
-          "stock": null
+          "unlimited": true
         },
         {
           "id": "74366d12-6854-4814-ab51-db6de4c39d3f",
@@ -39,8 +38,7 @@
           "price": "864.00",
           "sale_price": "0.00",
           "on_sale": false,
-          "unlimited": true,
-          "stock": null
+          "unlimited": true
         },
         {
           "id": "20f7f895-6088-4438-b5f9-c5b36361de48",
@@ -52,8 +50,7 @@
           "price": "1200.00",
           "sale_price": "0.00",
           "on_sale": false,
-          "unlimited": true,
-          "stock": null
+          "unlimited": true
         },
         {
           "id": "c9102289-9363-4ee1-b1ac-2f0cf6c8aed3",
@@ -65,8 +62,7 @@
           "price": "480.00",
           "sale_price": "0.00",
           "on_sale": false,
-          "unlimited": true,
-          "stock": null
+          "unlimited": true
         },
         {
           "id": "0dad8001-de73-47a8-8a16-a2f9e5bfddf1",
@@ -78,8 +74,7 @@
           "price": "864.00",
           "sale_price": "0.00",
           "on_sale": false,
-          "unlimited": true,
-          "stock": null
+          "unlimited": true
         },
         {
           "id": "5e47356d-360c-4e74-bf20-9cf53b4ade64",
@@ -91,8 +86,7 @@
           "price": "1200.00",
           "sale_price": "0.00",
           "on_sale": false,
-          "unlimited": true,
-          "stock": null
+          "unlimited": true
         },
         {
           "id": "398d5669-e46d-478d-a507-88b893430c37",
@@ -104,8 +98,7 @@
           "price": "65.00",
           "sale_price": "0.00",
           "on_sale": false,
-          "unlimited": true,
-          "stock": null
+          "unlimited": true
         },
         {
           "id": "9b09dbb5-ee8f-4ed6-a752-06112ed57971",
@@ -117,8 +110,7 @@
           "price": "130.00",
           "sale_price": "0.00",
           "on_sale": false,
-          "unlimited": true,
-          "stock": null
+          "unlimited": true
         },
         {
           "id": "7c4e6178-73ed-48f8-997e-61737d888c10",
@@ -130,8 +122,7 @@
           "price": "195.00",
           "sale_price": "0.00",
           "on_sale": false,
-          "unlimited": true,
-          "stock": null
+          "unlimited": true
         }
       ],
       "images": [
@@ -170,8 +161,7 @@
           "price": "480.00",
           "sale_price": "0.00",
           "on_sale": false,
-          "unlimited": true,
-          "stock": null
+          "unlimited": true
         },
         {
           "id": "ad6a19a3-8b55-4c11-adbc-ecbf7e3ec2bb",
@@ -183,8 +173,7 @@
           "price": "864.00",
           "sale_price": "0.00",
           "on_sale": false,
-          "unlimited": true,
-          "stock": null
+          "unlimited": true
         },
         {
           "id": "fed30768-3945-41ff-9079-587ec48ee86b",
@@ -196,8 +185,7 @@
           "price": "1200.00",
           "sale_price": "0.00",
           "on_sale": false,
-          "unlimited": true,
-          "stock": null
+          "unlimited": true
         },
         {
           "id": "17f4f767-40c7-4956-9e04-1f2394a8cbb9",
@@ -209,8 +197,7 @@
           "price": "480.00",
           "sale_price": "0.00",
           "on_sale": false,
-          "unlimited": true,
-          "stock": null
+          "unlimited": true
         },
         {
           "id": "7c87b51f-5d27-4b1f-879f-052d5776f588",
@@ -222,8 +209,7 @@
           "price": "864.00",
           "sale_price": "0.00",
           "on_sale": false,
-          "unlimited": true,
-          "stock": null
+          "unlimited": true
         },
         {
           "id": "9bcf6fb1-3624-4c2d-b41b-fc4709e0167b",
@@ -235,8 +221,7 @@
           "price": "1200.00",
           "sale_price": "0.00",
           "on_sale": false,
-          "unlimited": true,
-          "stock": null
+          "unlimited": true
         },
         {
           "id": "653232b7-93c3-467e-9830-91673f3e288f",
@@ -248,8 +233,7 @@
           "price": "65.00",
           "sale_price": "0.00",
           "on_sale": false,
-          "unlimited": true,
-          "stock": null
+          "unlimited": true
         },
         {
           "id": "0e60d113-b0c7-4aa9-a637-a2cf2a90ec74",
@@ -261,8 +245,7 @@
           "price": "130.00",
           "sale_price": "0.00",
           "on_sale": false,
-          "unlimited": true,
-          "stock": null
+          "unlimited": true
         },
         {
           "id": "b62c30de-6350-461c-b5f4-f3324a7c66ca",
@@ -274,8 +257,7 @@
           "price": "195.00",
           "sale_price": "0.00",
           "on_sale": false,
-          "unlimited": true,
-          "stock": null
+          "unlimited": true
         }
       ],
       "images": [
