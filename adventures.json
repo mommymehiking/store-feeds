@@ -1,6 +1,4 @@
 {
-  "source": "https://www.familyadventuresquad.org/adventures",
-  "title": "Adventures",
   "products": [
     {
       "title": "MLK Day Redwoods, Banana Slugs & Ocean Rocks",
@@ -322,8 +320,6 @@
           "alt": "Collage on the Peninsula: a yellow banana slug, families hiking, a large group waving beneath a giant redwood, and fungi on the forest floor."
         }
       ],
-      "seo_title": "MLK Day Redwoods, Banana Slugs & Ocean Rocks",
-      "seo_description": "A 1,700-year-old redwood, banana slugs by the dozen and ancient ocean rocks on an easy MLK Day hike, then lunch at Alice’s Restaurant.",
       "updated": "2026-09-26T00:28:23.493000Z"
     },
     {
@@ -586,8 +582,6 @@
           "alt": "Collage in the South Bay: a mom and son at a winter waterfall, a family by a mossy cascade, turkey tail fungi, mushrooms, clustered ladybugs and a spotted banana slug."
         }
       ],
-      "seo_title": "Winter Waterfalls, Ladybugs & Banana Slugs",
-      "seo_description": "Rushing winter waterfalls, a fungi hunt, leopard-spotted banana slugs and the Ladybug Christmas Tree, on an easy, stroller-friendly trail.",
       "updated": "2026-09-26T00:28:23.493000Z"
     },
     {
@@ -726,8 +720,6 @@
           "alt": "Upper level of the first class dome car on the Niles Canyon Railway: rows of seats under a curved glass roof for watching the canyon go by"
         }
       ],
-      "seo_title": "Niles Canyon Railway Holiday Train of Lights",
-      "seo_description": "A vintage train strung with lights, running through the canyon after dark. Open-air general seating, or a first-class dome or parlor car.",
       "updated": "2026-10-01T23:32:23.671000Z"
     },
     {
@@ -990,8 +982,6 @@
           "alt": "Collage by the Golden Gate Bridge, San Francisco: Blue Angels jets flying past the bridge, a beach looking out to it, historic cannons, blackberries and a seal."
         }
       ],
-      "seo_title": "Blue Angels Front-Row View, Tunnels & Beach",
-      "seo_description": "A front-row spot for the Blue Angels beside the Golden Gate, with tunnels and old cannons to explore and beach play after.",
       "updated": "2026-09-28T19:30:49.990000Z"
     },
     {
@@ -1030,8 +1020,6 @@
           "alt": "Collage in San Francisco: families in Halloween costumes with glowing lanterns at dusk, a big costumed group waving at camp, and children doing crafts."
         }
       ],
-      "seo_title": "Spooky, Silly Halloween Camp Near Golden Gate Bridge in SF",
-      "seo_description": "Haunted tent houses, trick-or-treating between tents and a costume parade, at a campground in the Presidio’s forested hills a short walk from the coast.",
       "updated": "2026-10-01T17:23:25.388000Z"
     },
     {
@@ -1294,8 +1282,6 @@
           "alt": "Collage: monarch butterflies clustered on a eucalyptus branch, a child pointing up into the trees, and families exploring the beach and tidepools."
         }
       ],
-      "seo_title": "Black Friday Monarchs, Tidepools & Beach",
-      "seo_description": "Overwintering monarch butterflies by the thousand, then tiny tidepools full of crabs and anemones. The anti-shopping Black Friday.",
       "updated": "2026-09-26T00:28:23.493000Z"
     },
     {
@@ -1478,8 +1464,6 @@
           "alt": "Collage near La Honda: a child holding a fall leaf, chestnuts in spiky husks, a bowl of roasted chestnuts, and children carrying baskets on a trail."
         }
       ],
-      "seo_title": "Chestnut Orchard, Honey Tasting & a Lake Hike",
-      "seo_description": "A century-old chestnut orchard in golden fall leaves and a taste of chestnut honey, then an easy lake hike with ducks, geese and an old oak to climb.",
       "updated": "2026-09-28T19:32:09.796000Z"
     }
   ]

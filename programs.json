@@ -1,6 +1,4 @@
 {
-  "source": "https://www.familyadventuresquad.org/programs",
-  "title": "Programs",
   "products": [
     {
       "title": "Toddle Dawdle + Forest Explorers: Silly Slugs",
@@ -102,8 +100,6 @@
           "alt": "Collage: a family posing by a trail in the south bay area, children running through a green meadow in the peninsula"
         }
       ],
-      "seo_title": "Toddle Dawdle + Forest Explorers: Silly Slugs",
-      "seo_description": "Nature-based learning for curious minds ages 1 to early elementary: circle time, songs, stories, hikes and sensory play outdoors. Saturdays, 9:30–11:30 AM, on the Peninsula and in the South Bay.",
       "updated": "2026-09-29T15:28:43.284000Z"
     },
     {
@@ -206,8 +202,6 @@
           "alt": "Collage: children and a parent arranging leaves and pinecones in the forest, families sitting on a fallen redwood, and kids walking a trail."
         }
       ],
-      "seo_title": "Toddle Dawdle + Forest Explorers: Happy Hawks",
-      "seo_description": "Nature-based learning for curious minds ages 1 to early elementary: circle time, songs, stories, hikes and sensory play outdoors. Wednesdays, 3–5 PM, on the Peninsula.",
       "updated": "2026-09-25T22:59:02.512000Z"
     }
   ]
