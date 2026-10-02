@@ -37,7 +37,6 @@
             "Children": "Up to 2"
           },
           "price": "108.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -49,7 +48,6 @@
             "Children": "3"
           },
           "price": "118.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -61,7 +59,6 @@
             "Children": "4"
           },
           "price": "128.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -73,7 +70,6 @@
             "Children": "5+"
           },
           "price": "138.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -85,7 +81,6 @@
             "Children": "Up to 2"
           },
           "price": "128.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -97,7 +92,6 @@
             "Children": "3"
           },
           "price": "138.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -109,7 +103,6 @@
             "Children": "4"
           },
           "price": "148.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -121,7 +114,6 @@
             "Children": "5+"
           },
           "price": "158.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         }
@@ -171,7 +163,6 @@
             "Children": "Up to 2"
           },
           "price": "162.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -183,7 +174,6 @@
             "Children": "3"
           },
           "price": "172.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -195,7 +185,6 @@
             "Children": "4"
           },
           "price": "182.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -207,7 +196,6 @@
             "Children": "5+"
           },
           "price": "192.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -219,7 +207,6 @@
             "Children": "Up to 2"
           },
           "price": "192.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -231,7 +218,6 @@
             "Children": "3"
           },
           "price": "202.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -243,7 +229,6 @@
             "Children": "4"
           },
           "price": "212.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -255,7 +240,6 @@
             "Children": "5+"
           },
           "price": "222.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         }

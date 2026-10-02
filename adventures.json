@@ -26,7 +26,6 @@
             "Rate": "Early bird (until Jan. 11)"
           },
           "price": "64.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -40,7 +39,6 @@
             "Rate": "Regular (after Jan. 11)"
           },
           "price": "74.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -54,7 +52,6 @@
             "Rate": "Early bird (until Jan. 11)"
           },
           "price": "74.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -68,7 +65,6 @@
             "Rate": "Regular (after Jan. 11)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -82,7 +78,6 @@
             "Rate": "Early bird (until Jan. 11)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -96,7 +91,6 @@
             "Rate": "Regular (after Jan. 11)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -110,7 +104,6 @@
             "Rate": "Early bird (until Jan. 11)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -124,7 +117,6 @@
             "Rate": "Regular (after Jan. 11)"
           },
           "price": "104.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -138,7 +130,6 @@
             "Rate": "Early bird (until Jan. 11)"
           },
           "price": "104.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -152,7 +143,6 @@
             "Rate": "Regular (after Jan. 11)"
           },
           "price": "114.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -166,7 +156,6 @@
             "Rate": "Early bird (until Jan. 11)"
           },
           "price": "74.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 7
@@ -180,7 +169,6 @@
             "Rate": "Regular (after Jan. 11)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -194,7 +182,6 @@
             "Rate": "Early bird (until Jan. 11)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -208,7 +195,6 @@
             "Rate": "Regular (after Jan. 11)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -222,7 +208,6 @@
             "Rate": "Early bird (until Jan. 11)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -236,7 +221,6 @@
             "Rate": "Regular (after Jan. 11)"
           },
           "price": "104.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -250,7 +234,6 @@
             "Rate": "Early bird (until Jan. 11)"
           },
           "price": "104.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -264,7 +247,6 @@
             "Rate": "Regular (after Jan. 11)"
           },
           "price": "114.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -278,7 +260,6 @@
             "Rate": "Early bird (until Jan. 11)"
           },
           "price": "114.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -292,7 +273,6 @@
             "Rate": "Regular (after Jan. 11)"
           },
           "price": "124.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -306,7 +286,6 @@
             "Rate": "Early bird (until Jan. 11)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -319,7 +298,6 @@
             "Rate": "Regular (after Jan. 11)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -332,7 +310,6 @@
             "Rate": "Early bird (until Jan. 11)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -345,7 +322,6 @@
             "Rate": "Regular (after Jan. 11)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -358,7 +334,6 @@
             "Rate": "Early bird (until Jan. 11)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -371,7 +346,6 @@
             "Rate": "Regular (after Jan. 11)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -384,7 +358,6 @@
             "Rate": "Early bird (until Jan. 11)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -397,7 +370,6 @@
             "Rate": "Regular (after Jan. 11)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -410,7 +382,6 @@
             "Rate": "Early bird (until Jan. 11)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -423,7 +394,6 @@
             "Rate": "Regular (after Jan. 11)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         }
@@ -464,7 +434,6 @@
             "Rate": "Early bird (until Dec. 6)"
           },
           "price": "64.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -478,7 +447,6 @@
             "Rate": "Regular (after Dec. 6)"
           },
           "price": "74.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -492,7 +460,6 @@
             "Rate": "Early bird (until Dec. 6)"
           },
           "price": "74.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -506,7 +473,6 @@
             "Rate": "Regular (after Dec. 6)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -520,7 +486,6 @@
             "Rate": "Early bird (until Dec. 6)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -534,7 +499,6 @@
             "Rate": "Regular (after Dec. 6)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -548,7 +512,6 @@
             "Rate": "Early bird (until Dec. 6)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -562,7 +525,6 @@
             "Rate": "Regular (after Dec. 6)"
           },
           "price": "104.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -576,7 +538,6 @@
             "Rate": "Early bird (until Dec. 6)"
           },
           "price": "74.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -590,7 +551,6 @@
             "Rate": "Regular (after Dec. 6)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -604,7 +564,6 @@
             "Rate": "Early bird (until Dec. 6)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -618,7 +577,6 @@
             "Rate": "Regular (after Dec. 6)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -632,7 +590,6 @@
             "Rate": "Early bird (until Dec. 6)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -646,7 +603,6 @@
             "Rate": "Regular (after Dec. 6)"
           },
           "price": "104.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -660,7 +616,6 @@
             "Rate": "Early bird (until Dec. 6)"
           },
           "price": "104.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -674,7 +629,6 @@
             "Rate": "Regular (after Dec. 6)"
           },
           "price": "114.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -688,7 +642,6 @@
             "Rate": "Early bird (until Dec. 6)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -701,7 +654,6 @@
             "Rate": "Regular (after Dec. 6)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -714,7 +666,6 @@
             "Rate": "Early bird (until Dec. 6)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -727,7 +678,6 @@
             "Rate": "Regular (after Dec. 6)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -740,7 +690,6 @@
             "Rate": "Early bird (until Dec. 6)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -753,7 +702,6 @@
             "Rate": "Regular (after Dec. 6)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -766,7 +714,6 @@
             "Rate": "Early bird (until Dec. 6)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -779,7 +726,6 @@
             "Rate": "Regular (after Dec. 6)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         }
@@ -818,7 +764,6 @@
             "Pricing Types": "EARLY BIRD-First-Class: Dome: Ages 3+"
           },
           "price": "86.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 0
@@ -830,7 +775,6 @@
             "Pricing Types": "EARLY BIRD-First-Class: Dome: Ages 0-2"
           },
           "price": "16.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 0
@@ -842,7 +786,6 @@
             "Pricing Types": "EARLY BIRD-First-Class: Parlor: Ages 3+"
           },
           "price": "86.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 0
@@ -854,7 +797,6 @@
             "Pricing Types": "EARLY BIRD-First-Class: Parlor: Ages 0-2"
           },
           "price": "16.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 0
@@ -866,7 +808,6 @@
             "Pricing Types": "EARLY BIRD-General (open seating): Ages 3+"
           },
           "price": "56.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 68
@@ -878,7 +819,6 @@
             "Pricing Types": "EARLY BIRD-General (open seating): Ages 0-2"
           },
           "price": "16.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -889,7 +829,6 @@
             "Pricing Types": "(After Oct. 1)-First-Class: Dome: Ages 3+"
           },
           "price": "96.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 0
@@ -901,7 +840,6 @@
             "Pricing Types": "(After Oct. 1): First-Class: Dome: Ages 0-2"
           },
           "price": "26.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 0
@@ -913,7 +851,6 @@
             "Pricing Types": "(After Oct. 1)-First-Class: Parlor: Ages 3+"
           },
           "price": "96.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 0
@@ -925,7 +862,6 @@
             "Pricing Types": "(After Oct. 1): First-Class: Parlor: Ages 0-2"
           },
           "price": "26.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 0
@@ -937,7 +873,6 @@
             "Pricing Types": "(After Oct. 1): General (open seating): Ages 3+"
           },
           "price": "66.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 0
@@ -949,7 +884,6 @@
             "Pricing Types": "(After Oct. 1): General (open seating): Ages 0-2"
           },
           "price": "26.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 0
@@ -961,7 +895,6 @@
             "Pricing Types": "Every 10th"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 0
@@ -1015,7 +948,6 @@
             "Rate": "Early bird (until Oct. 4)"
           },
           "price": "64.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1028,7 +960,6 @@
             "Rate": "Regular (after Oct. 4)"
           },
           "price": "74.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1041,7 +972,6 @@
             "Rate": "Early bird (until Oct. 4)"
           },
           "price": "74.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1054,7 +984,6 @@
             "Rate": "Regular (after Oct. 4)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1067,7 +996,6 @@
             "Rate": "Early bird (until Oct. 4)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1080,7 +1008,6 @@
             "Rate": "Regular (after Oct. 4)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1093,7 +1020,6 @@
             "Rate": "Early bird (until Oct. 4)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1106,7 +1032,6 @@
             "Rate": "Regular (after Oct. 4)"
           },
           "price": "104.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1119,7 +1044,6 @@
             "Rate": "Early bird (until Oct. 4)"
           },
           "price": "74.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1132,7 +1056,6 @@
             "Rate": "Regular (after Oct. 4)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1145,7 +1068,6 @@
             "Rate": "Early bird (until Oct. 4)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1158,7 +1080,6 @@
             "Rate": "Regular (after Oct. 4)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1171,7 +1092,6 @@
             "Rate": "Early bird (until Oct. 4)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1184,7 +1104,6 @@
             "Rate": "Regular (after Oct. 4)"
           },
           "price": "104.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1197,7 +1116,6 @@
             "Rate": "Early bird (until Oct. 4)"
           },
           "price": "104.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1210,7 +1128,6 @@
             "Rate": "Regular (after Oct. 4)"
           },
           "price": "114.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1223,7 +1140,6 @@
             "Rate": "Early bird (until Oct. 4)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1236,7 +1152,6 @@
             "Rate": "Regular (after Oct. 4)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1249,7 +1164,6 @@
             "Rate": "Early bird (until Oct. 4)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1262,7 +1176,6 @@
             "Rate": "Regular (after Oct. 4)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1275,7 +1188,6 @@
             "Rate": "Early bird (until Oct. 4)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1288,7 +1200,6 @@
             "Rate": "Regular (after Oct. 4)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1301,7 +1212,6 @@
             "Rate": "Early bird (until Oct. 4)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1314,7 +1224,6 @@
             "Rate": "Regular (after Oct. 4)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         }
@@ -1353,7 +1262,6 @@
             "Pricing Types": "(EARLY BIRD until TUESDAY OCT 6): ONE CAMPER  Fri-Sun"
           },
           "price": "175.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 18
@@ -1365,7 +1273,6 @@
             "Pricing Types": "(AFTER TUESDAY OCT 6): ONE CAMPER Fri-Sun"
           },
           "price": "200.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         }
@@ -1406,7 +1313,6 @@
             "Rate": "Early bird (until Nov. 15)"
           },
           "price": "64.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1419,7 +1325,6 @@
             "Rate": "Regular (after Nov. 15)"
           },
           "price": "74.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1432,7 +1337,6 @@
             "Rate": "Early bird (until Nov. 15)"
           },
           "price": "74.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1445,7 +1349,6 @@
             "Rate": "Regular (after Nov. 15)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1458,7 +1361,6 @@
             "Rate": "Early bird (until Nov. 15)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1471,7 +1373,6 @@
             "Rate": "Regular (after Nov. 15)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1484,7 +1385,6 @@
             "Rate": "Early bird (until Nov. 15)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1497,7 +1397,6 @@
             "Rate": "Regular (after Nov. 15)"
           },
           "price": "104.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1510,7 +1409,6 @@
             "Rate": "Early bird (until Nov. 15)"
           },
           "price": "74.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1523,7 +1421,6 @@
             "Rate": "Regular (after Nov. 15)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1536,7 +1433,6 @@
             "Rate": "Early bird (until Nov. 15)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1549,7 +1445,6 @@
             "Rate": "Regular (after Nov. 15)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1562,7 +1457,6 @@
             "Rate": "Early bird (until Nov. 15)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1575,7 +1469,6 @@
             "Rate": "Regular (after Nov. 15)"
           },
           "price": "104.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1588,7 +1481,6 @@
             "Rate": "Early bird (until Nov. 15)"
           },
           "price": "104.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1601,7 +1493,6 @@
             "Rate": "Regular (after Nov. 15)"
           },
           "price": "114.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1614,7 +1505,6 @@
             "Rate": "Early bird (until Nov. 15)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1627,7 +1517,6 @@
             "Rate": "Regular (after Nov. 15)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1640,7 +1529,6 @@
             "Rate": "Early bird (until Nov. 15)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1653,7 +1541,6 @@
             "Rate": "Regular (after Nov. 15)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1666,7 +1553,6 @@
             "Rate": "Early bird (until Nov. 15)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1679,7 +1565,6 @@
             "Rate": "Regular (after Nov. 15)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1692,7 +1577,6 @@
             "Rate": "Early bird (until Nov. 15)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -1705,7 +1589,6 @@
             "Rate": "Regular (after Nov. 15)"
           },
           "price": "0.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": true
         }
@@ -1746,7 +1629,6 @@
             "Rate": "Early bird (until Oct. 18)"
           },
           "price": "64.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -1760,7 +1642,6 @@
             "Rate": "Regular (after Oct. 18)"
           },
           "price": "74.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -1774,7 +1655,6 @@
             "Rate": "Early bird (until Oct. 18)"
           },
           "price": "74.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -1788,7 +1668,6 @@
             "Rate": "Regular (after Oct. 18)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -1802,7 +1681,6 @@
             "Rate": "Early bird (until Oct. 18)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -1816,7 +1694,6 @@
             "Rate": "Regular (after Oct. 18)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -1830,7 +1707,6 @@
             "Rate": "Early bird (until Oct. 18)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -1844,7 +1720,6 @@
             "Rate": "Regular (after Oct. 18)"
           },
           "price": "104.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -1858,7 +1733,6 @@
             "Rate": "Early bird (until Oct. 18)"
           },
           "price": "74.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 7
@@ -1872,7 +1746,6 @@
             "Rate": "Regular (after Oct. 18)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -1886,7 +1759,6 @@
             "Rate": "Early bird (until Oct. 18)"
           },
           "price": "84.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -1900,7 +1772,6 @@
             "Rate": "Regular (after Oct. 18)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -1914,7 +1785,6 @@
             "Rate": "Early bird (until Oct. 18)"
           },
           "price": "94.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -1928,7 +1798,6 @@
             "Rate": "Regular (after Oct. 18)"
           },
           "price": "104.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -1942,7 +1811,6 @@
             "Rate": "Early bird (until Oct. 18)"
           },
           "price": "104.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
@@ -1956,7 +1824,6 @@
             "Rate": "Regular (after Oct. 18)"
           },
           "price": "114.00",
-          "sale_price": "0.00",
           "on_sale": false,
           "unlimited": false,
           "stock": 8
