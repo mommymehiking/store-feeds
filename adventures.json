@@ -3,7 +3,6 @@
   "title": "Adventures",
   "products": [
     {
-      "id": "6ab44c9a987bbc7320c34a6c",
       "title": "MLK Day Redwoods, Banana Slugs & Ocean Rocks",
       "url": "https://www.familyadventuresquad.org/adventures/p/1/18-mlk-day-redwood-banana-slugs-peninsula",
       "slug": "1/18-mlk-day-redwood-banana-slugs-peninsula",
@@ -18,7 +17,6 @@
       "currency": "USD",
       "variants": [
         {
-          "id": "8de307e8-3b74-43e1-848c-87190a8a682c",
           "sku": "SQ8676915",
           "options": {
             "Household": "Single-income family",
@@ -30,7 +28,6 @@
           "stock": 8
         },
         {
-          "id": "857d6497-2bab-455e-b360-bfa1c9181d7a",
           "sku": "SQ0828896",
           "options": {
             "Household": "Single-income family",
@@ -42,7 +39,6 @@
           "stock": 8
         },
         {
-          "id": "a2a745b6-469a-4320-aac4-ba17b51001d3",
           "sku": "SQ9918775",
           "options": {
             "Household": "Single-income family",
@@ -54,7 +50,6 @@
           "stock": 8
         },
         {
-          "id": "2db0ab8d-9811-4c56-87f4-f50f65b7b8f5",
           "sku": "SQ0523248",
           "options": {
             "Household": "Single-income family",
@@ -66,7 +61,6 @@
           "stock": 8
         },
         {
-          "id": "48a30a92-fa8c-4145-8883-3b36e7961ee0",
           "sku": "SQ8973748",
           "options": {
             "Household": "Single-income family",
@@ -78,7 +72,6 @@
           "stock": 8
         },
         {
-          "id": "0de20bf1-9029-46b7-aa4b-5ef98400de07",
           "sku": "SQ2052293",
           "options": {
             "Household": "Single-income family",
@@ -90,7 +83,6 @@
           "stock": 8
         },
         {
-          "id": "59956594-37ce-4a1e-a4fb-dcfdb58144e9",
           "sku": "SQ7974207",
           "options": {
             "Household": "Single-income family",
@@ -102,7 +94,6 @@
           "stock": 8
         },
         {
-          "id": "47b87315-d98c-4526-a225-92d0dcab6f0b",
           "sku": "SQ3754181",
           "options": {
             "Household": "Single-income family",
@@ -114,7 +105,6 @@
           "stock": 8
         },
         {
-          "id": "800e4798-3f44-409c-b941-5742fb32895f",
           "sku": "SQ5330488",
           "options": {
             "Household": "Single-income family",
@@ -126,7 +116,6 @@
           "stock": 8
         },
         {
-          "id": "d679c10f-00dd-497e-8904-70386b6a506c",
           "sku": "SQ5360435",
           "options": {
             "Household": "Single-income family",
@@ -138,7 +127,6 @@
           "stock": 8
         },
         {
-          "id": "775bee0b-f846-4475-9ff0-c159ac17dcd0",
           "sku": "SQ3396533",
           "options": {
             "Household": "Dual-income family",
@@ -150,7 +138,6 @@
           "stock": 7
         },
         {
-          "id": "c2e9e45e-9f10-4c2c-b7b8-be4e5d747ebb",
           "sku": "SQ4833073",
           "options": {
             "Household": "Dual-income family",
@@ -162,7 +149,6 @@
           "stock": 8
         },
         {
-          "id": "774e10bb-f4b1-442a-9e70-da17d0b51880",
           "sku": "SQ2541256",
           "options": {
             "Household": "Dual-income family",
@@ -174,7 +160,6 @@
           "stock": 8
         },
         {
-          "id": "1daa31b6-5bdd-4b63-a698-6b2ffcb99ba7",
           "sku": "SQ1317798",
           "options": {
             "Household": "Dual-income family",
@@ -186,7 +171,6 @@
           "stock": 8
         },
         {
-          "id": "a117ce6c-b823-45f5-85bf-edf281baca43",
           "sku": "SQ7674935",
           "options": {
             "Household": "Dual-income family",
@@ -198,7 +182,6 @@
           "stock": 8
         },
         {
-          "id": "76f6e9a2-55b1-45d6-a074-91a968c2565f",
           "sku": "SQ4836484",
           "options": {
             "Household": "Dual-income family",
@@ -210,7 +193,6 @@
           "stock": 8
         },
         {
-          "id": "9d01c2f9-2fa8-4610-ae2f-b0cb4dd6fff9",
           "sku": "SQ9548743",
           "options": {
             "Household": "Dual-income family",
@@ -222,7 +204,6 @@
           "stock": 8
         },
         {
-          "id": "cc66c06f-fd77-46ac-abe1-fb687bde3f6a",
           "sku": "SQ3265562",
           "options": {
             "Household": "Dual-income family",
@@ -234,7 +215,6 @@
           "stock": 8
         },
         {
-          "id": "4eee5117-8d10-450c-9a1f-3276afa20ab2",
           "sku": "SQ9971947",
           "options": {
             "Household": "Dual-income family",
@@ -246,7 +226,6 @@
           "stock": 8
         },
         {
-          "id": "5e7281a1-286e-486f-85e1-c75efe2aebcf",
           "sku": "SQ6721778",
           "options": {
             "Household": "Dual-income family",
@@ -258,7 +237,6 @@
           "stock": 8
         },
         {
-          "id": "96b98c0d-002f-4200-a5e8-f7b6e397b092",
           "sku": "SQ9643102",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -270,7 +248,6 @@
           "unlimited": true
         },
         {
-          "id": "92b22616-c9ff-4be4-8d60-74e2086e84af",
           "sku": "SQ8970961",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -282,7 +259,6 @@
           "unlimited": true
         },
         {
-          "id": "2524ce51-2ab1-42b3-95ed-985cc37b7b45",
           "sku": "SQ6553447",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -294,7 +270,6 @@
           "unlimited": true
         },
         {
-          "id": "eee46197-c797-4788-ad5e-d52dbabfa897",
           "sku": "SQ3173701",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -306,7 +281,6 @@
           "unlimited": true
         },
         {
-          "id": "09577bf5-141d-49ad-9425-3d56214a6e39",
           "sku": "SQ3798253",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -318,7 +292,6 @@
           "unlimited": true
         },
         {
-          "id": "add75c54-5075-4dfc-985f-e93c9f62a26c",
           "sku": "SQ6253078",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -330,7 +303,6 @@
           "unlimited": true
         },
         {
-          "id": "6bfdf87f-d1d7-4941-ac91-418febb27899",
           "sku": "SQ9538141",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -342,7 +314,6 @@
           "unlimited": true
         },
         {
-          "id": "f44796a5-98d1-4eae-9f12-c009b004f9f1",
           "sku": "SQ2151521",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -354,7 +325,6 @@
           "unlimited": true
         },
         {
-          "id": "a65a9747-a754-4bf7-b347-9dce6f5ad4d5",
           "sku": "SQ1347284",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -366,7 +336,6 @@
           "unlimited": true
         },
         {
-          "id": "572e104d-ce5d-4ab2-ad5c-bb558c6b222c",
           "sku": "SQ4512437",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -391,7 +360,6 @@
       "updated": "2026-09-26T00:28:23.493000Z"
     },
     {
-      "id": "6ab44c3f2b79fd4266cb41c0",
       "title": "Winter Waterfalls, Ladybugs & Banana Slugs",
       "url": "https://www.familyadventuresquad.org/adventures/p/12/13-winter-waterfall-ladybugs-banana-slugs-southbay",
       "slug": "12/13-winter-waterfall-ladybugs-banana-slugs-southbay",
@@ -406,7 +374,6 @@
       "currency": "USD",
       "variants": [
         {
-          "id": "279689c7-2f4c-452a-8734-4778c9548eb8",
           "sku": "SQ3578653",
           "options": {
             "Household": "Single-income family",
@@ -418,7 +385,6 @@
           "stock": 8
         },
         {
-          "id": "f1eb81a0-a126-4af9-b414-58f7caffd610",
           "sku": "SQ0054360",
           "options": {
             "Household": "Single-income family",
@@ -430,7 +396,6 @@
           "stock": 8
         },
         {
-          "id": "eb492d7a-c9f6-444a-9b9c-e452cf1e82f8",
           "sku": "SQ5486340",
           "options": {
             "Household": "Single-income family",
@@ -442,7 +407,6 @@
           "stock": 8
         },
         {
-          "id": "8b40e29b-a0ba-40fa-b741-a3b0fbd23142",
           "sku": "SQ2216529",
           "options": {
             "Household": "Single-income family",
@@ -454,7 +418,6 @@
           "stock": 8
         },
         {
-          "id": "8070d614-5f2f-4342-a76f-1cd428cebe47",
           "sku": "SQ8604243",
           "options": {
             "Household": "Single-income family",
@@ -466,7 +429,6 @@
           "stock": 8
         },
         {
-          "id": "f577a3cb-8332-48fe-9c69-57d38ab0fe1b",
           "sku": "SQ4167575",
           "options": {
             "Household": "Single-income family",
@@ -478,7 +440,6 @@
           "stock": 8
         },
         {
-          "id": "44400967-d05a-4148-8606-b91ecaaa0620",
           "sku": "SQ7522659",
           "options": {
             "Household": "Single-income family",
@@ -490,7 +451,6 @@
           "stock": 8
         },
         {
-          "id": "90b28641-e747-4443-8bfd-871d66f82899",
           "sku": "SQ0247571",
           "options": {
             "Household": "Single-income family",
@@ -502,7 +462,6 @@
           "stock": 8
         },
         {
-          "id": "40597f0b-fc69-40e0-b908-611bba443ceb",
           "sku": "SQ8887903",
           "options": {
             "Household": "Dual-income family",
@@ -514,7 +473,6 @@
           "stock": 8
         },
         {
-          "id": "16bf9abb-fc6f-4504-86bd-755e0b6cd163",
           "sku": "SQ1354132",
           "options": {
             "Household": "Dual-income family",
@@ -526,7 +484,6 @@
           "stock": 8
         },
         {
-          "id": "16a6fd6e-9691-4c15-b812-24a34c2c4a6b",
           "sku": "SQ6729456",
           "options": {
             "Household": "Dual-income family",
@@ -538,7 +495,6 @@
           "stock": 8
         },
         {
-          "id": "1209720b-4304-49db-b96c-ad02a681b628",
           "sku": "SQ6608508",
           "options": {
             "Household": "Dual-income family",
@@ -550,7 +506,6 @@
           "stock": 8
         },
         {
-          "id": "935c7317-937c-4beb-9337-dbb1b136d97e",
           "sku": "SQ8243095",
           "options": {
             "Household": "Dual-income family",
@@ -562,7 +517,6 @@
           "stock": 8
         },
         {
-          "id": "5a64e4cd-d74c-45e3-a893-a2fc2a10d899",
           "sku": "SQ0800660",
           "options": {
             "Household": "Dual-income family",
@@ -574,7 +528,6 @@
           "stock": 8
         },
         {
-          "id": "7fcc4395-071f-495c-a07c-c7ae615e1724",
           "sku": "SQ2769729",
           "options": {
             "Household": "Dual-income family",
@@ -586,7 +539,6 @@
           "stock": 8
         },
         {
-          "id": "576255fa-feee-4283-9545-ec35ec584d99",
           "sku": "SQ9350188",
           "options": {
             "Household": "Dual-income family",
@@ -598,7 +550,6 @@
           "stock": 8
         },
         {
-          "id": "66ed4f6e-8888-4693-a065-176f968cb291",
           "sku": "SQ9968924",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -610,7 +561,6 @@
           "unlimited": true
         },
         {
-          "id": "ae274e09-ab11-4de6-b8c9-01c81a9c82c0",
           "sku": "SQ2092223",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -622,7 +572,6 @@
           "unlimited": true
         },
         {
-          "id": "fecd8774-cbae-4e13-9c13-7b41bcb1dd31",
           "sku": "SQ9712277",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -634,7 +583,6 @@
           "unlimited": true
         },
         {
-          "id": "030350ad-64a9-4ddb-95c2-6e0e0594ab19",
           "sku": "SQ8314558",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -646,7 +594,6 @@
           "unlimited": true
         },
         {
-          "id": "da9c31aa-f169-4c32-999f-940acc3b18bc",
           "sku": "SQ2875374",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -658,7 +605,6 @@
           "unlimited": true
         },
         {
-          "id": "393c10a6-f0dd-48b3-b980-e6dfa31a736e",
           "sku": "SQ6745436",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -670,7 +616,6 @@
           "unlimited": true
         },
         {
-          "id": "057bd538-5379-4879-92a0-4f6b01c2d193",
           "sku": "SQ0086469",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -682,7 +627,6 @@
           "unlimited": true
         },
         {
-          "id": "a6279c76-a330-4788-a689-a745bb9b06f4",
           "sku": "SQ4767982",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -707,7 +651,6 @@
       "updated": "2026-09-26T00:28:23.493000Z"
     },
     {
-      "id": "6a8392fdf0e1194108955cc6",
       "title": "Niles Canyon Railway Holiday Train of Lights",
       "url": "https://www.familyadventuresquad.org/adventures/p/niles-canyon-holiday-train-2026-fas",
       "slug": "niles-canyon-holiday-train-2026-fas",
@@ -722,7 +665,6 @@
       "currency": "USD",
       "variants": [
         {
-          "id": "f9d994d3-dba8-41ce-abc6-528d6ef82117",
           "sku": "SQ2544842",
           "options": {
             "Pricing Types": "EARLY BIRD-First-Class: Dome: Ages 3+"
@@ -732,7 +674,6 @@
           "stock": 0
         },
         {
-          "id": "41e05508-e2df-4fbf-8421-576a00574d49",
           "sku": "SQ2016687",
           "options": {
             "Pricing Types": "EARLY BIRD-First-Class: Dome: Ages 0-2"
@@ -742,7 +683,6 @@
           "stock": 0
         },
         {
-          "id": "79faf1f3-a20b-4b73-989e-526aa43412f8",
           "sku": "SQ2605808",
           "options": {
             "Pricing Types": "EARLY BIRD-First-Class: Parlor: Ages 3+"
@@ -752,7 +692,6 @@
           "stock": 0
         },
         {
-          "id": "71e8a48c-a3b8-41b1-baca-6f97e196f047",
           "sku": "SQ7518667",
           "options": {
             "Pricing Types": "EARLY BIRD-First-Class: Parlor: Ages 0-2"
@@ -762,7 +701,6 @@
           "stock": 0
         },
         {
-          "id": "f416d208-2f6f-4637-abe4-3f1831be8085",
           "sku": "SQ1174586",
           "options": {
             "Pricing Types": "EARLY BIRD-General (open seating): Ages 3+"
@@ -772,7 +710,6 @@
           "stock": 68
         },
         {
-          "id": "97d87a65-51d1-4440-920d-f5649bcc18a8",
           "sku": "SQ4040123",
           "options": {
             "Pricing Types": "EARLY BIRD-General (open seating): Ages 0-2"
@@ -782,7 +719,6 @@
           "unlimited": true
         },
         {
-          "id": "87cb3af4-0d58-4b11-82d2-36631a1caac6",
           "sku": "SQ7074457",
           "options": {
             "Pricing Types": "(After Oct. 1)-First-Class: Dome: Ages 3+"
@@ -792,7 +728,6 @@
           "stock": 0
         },
         {
-          "id": "232d23dd-da0a-4560-9180-8e399a2aa51a",
           "sku": "SQ8645173",
           "options": {
             "Pricing Types": "(After Oct. 1): First-Class: Dome: Ages 0-2"
@@ -802,7 +737,6 @@
           "stock": 0
         },
         {
-          "id": "5024f5d5-f7e9-44ca-9db2-81d276328612",
           "sku": "SQ7534576",
           "options": {
             "Pricing Types": "(After Oct. 1)-First-Class: Parlor: Ages 3+"
@@ -812,7 +746,6 @@
           "stock": 0
         },
         {
-          "id": "e134a26c-8b97-4c52-a026-cc5a78b8ef1a",
           "sku": "SQ7726040",
           "options": {
             "Pricing Types": "(After Oct. 1): First-Class: Parlor: Ages 0-2"
@@ -822,7 +755,6 @@
           "stock": 0
         },
         {
-          "id": "928b7dd8-8e2f-4365-990f-45fd3e3ec589",
           "sku": "SQ0888002",
           "options": {
             "Pricing Types": "(After Oct. 1): General (open seating): Ages 3+"
@@ -832,7 +764,6 @@
           "stock": 0
         },
         {
-          "id": "43ae7d76-cebe-48e0-b6a0-de49070e9824",
           "sku": "SQ1272150",
           "options": {
             "Pricing Types": "(After Oct. 1): General (open seating): Ages 0-2"
@@ -842,7 +773,6 @@
           "stock": 0
         },
         {
-          "id": "e5b31f74-02d9-4941-b890-e9ffceddc0ff",
           "sku": "SQ0862707",
           "options": {
             "Pricing Types": "Every 10th"
@@ -877,7 +807,6 @@
       "updated": "2026-10-01T23:32:23.671000Z"
     },
     {
-      "id": "6a5fda72d9c37d15e95d4c94",
       "title": "Blue Angels Front-Row View, Tunnels & Beach",
       "url": "https://www.familyadventuresquad.org/adventures/p/10/12-blueangels-diwali-beach-sf-y7bsl",
       "slug": "10/12-blueangels-diwali-beach-sf-y7bsl",
@@ -892,7 +821,6 @@
       "currency": "USD",
       "variants": [
         {
-          "id": "b2520db1-3393-4b7e-a9df-d94d5235d31c",
           "sku": "SQ9989284",
           "options": {
             "Household": "Single-income family",
@@ -904,7 +832,6 @@
           "unlimited": true
         },
         {
-          "id": "8783df5c-7389-4216-bfb4-9b0200a0188a",
           "sku": "SQ8947831",
           "options": {
             "Household": "Single-income family",
@@ -916,7 +843,6 @@
           "unlimited": true
         },
         {
-          "id": "caf86ed5-3121-4ccd-9401-789c7e88e265",
           "sku": "SQ0404552",
           "options": {
             "Household": "Single-income family",
@@ -928,7 +854,6 @@
           "unlimited": true
         },
         {
-          "id": "4442fe09-80e7-48db-a875-51912762df9b",
           "sku": "SQ9599163",
           "options": {
             "Household": "Single-income family",
@@ -940,7 +865,6 @@
           "unlimited": true
         },
         {
-          "id": "0e9a1051-3cd3-421f-a308-579a55e630ef",
           "sku": "SQ8284386",
           "options": {
             "Household": "Single-income family",
@@ -952,7 +876,6 @@
           "unlimited": true
         },
         {
-          "id": "4d9a8034-b953-4cff-baf3-dc45ac99bebe",
           "sku": "SQ4874641",
           "options": {
             "Household": "Single-income family",
@@ -964,7 +887,6 @@
           "unlimited": true
         },
         {
-          "id": "d7412d06-3603-47dc-9c0a-4d60d843f7ba",
           "sku": "SQ8244211",
           "options": {
             "Household": "Single-income family",
@@ -976,7 +898,6 @@
           "unlimited": true
         },
         {
-          "id": "1b9232b4-14c2-4c89-b5c4-c95401582ee4",
           "sku": "SQ8190107",
           "options": {
             "Household": "Single-income family",
@@ -988,7 +909,6 @@
           "unlimited": true
         },
         {
-          "id": "e3a28be4-e855-4045-8018-d3849d001401",
           "sku": "SQ0477030",
           "options": {
             "Household": "Dual-income family",
@@ -1000,7 +920,6 @@
           "unlimited": true
         },
         {
-          "id": "c3173311-15f2-48cf-91b5-094a83d8b138",
           "sku": "SQ0877600",
           "options": {
             "Household": "Dual-income family",
@@ -1012,7 +931,6 @@
           "unlimited": true
         },
         {
-          "id": "11b936bb-3d05-4e12-9d21-b0f35f0ab02b",
           "sku": "SQ0931990",
           "options": {
             "Household": "Dual-income family",
@@ -1024,7 +942,6 @@
           "unlimited": true
         },
         {
-          "id": "ae43bb6c-44dd-4b3c-9c41-abb81ecacd17",
           "sku": "SQ5792129",
           "options": {
             "Household": "Dual-income family",
@@ -1036,7 +953,6 @@
           "unlimited": true
         },
         {
-          "id": "2270624c-a369-4561-9470-a0c367c4de75",
           "sku": "SQ9554945",
           "options": {
             "Household": "Dual-income family",
@@ -1048,7 +964,6 @@
           "unlimited": true
         },
         {
-          "id": "d4ab1648-1286-4cb0-83e5-1de084755a1f",
           "sku": "SQ6217163",
           "options": {
             "Household": "Dual-income family",
@@ -1060,7 +975,6 @@
           "unlimited": true
         },
         {
-          "id": "3d4bbfbd-5b84-4011-84a5-013c40ef44ff",
           "sku": "SQ3797056",
           "options": {
             "Household": "Dual-income family",
@@ -1072,7 +986,6 @@
           "unlimited": true
         },
         {
-          "id": "c7ea575e-0cc5-4a91-ad40-ba0ebb24f7bf",
           "sku": "SQ6779005",
           "options": {
             "Household": "Dual-income family",
@@ -1084,7 +997,6 @@
           "unlimited": true
         },
         {
-          "id": "fdd05d3c-817b-4404-bd98-b4c03bc0cbf7",
           "sku": "SQ4150786",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -1096,7 +1008,6 @@
           "unlimited": true
         },
         {
-          "id": "250487c6-ce93-4251-9fd8-c248c3cde4a5",
           "sku": "SQ0163950",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -1108,7 +1019,6 @@
           "unlimited": true
         },
         {
-          "id": "b5c33eed-2658-4619-8b02-76f5ca87e68b",
           "sku": "SQ6149316",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -1120,7 +1030,6 @@
           "unlimited": true
         },
         {
-          "id": "bda707a8-92a3-46a1-8d32-0fd7967a6fae",
           "sku": "SQ2391562",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -1132,7 +1041,6 @@
           "unlimited": true
         },
         {
-          "id": "4929b7d4-6d6d-4cf1-ac99-561337b6a342",
           "sku": "SQ7748762",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -1144,7 +1052,6 @@
           "unlimited": true
         },
         {
-          "id": "20b68995-1a8f-41c8-bbab-84b3af7480b5",
           "sku": "SQ1554569",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -1156,7 +1063,6 @@
           "unlimited": true
         },
         {
-          "id": "3a6e96c7-e946-4657-85c6-756d548b7dd3",
           "sku": "SQ2101169",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -1168,7 +1074,6 @@
           "unlimited": true
         },
         {
-          "id": "712d6bb4-46ac-495e-94a4-fc29c961a07a",
           "sku": "SQ4419563",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -1193,7 +1098,6 @@
       "updated": "2026-09-28T19:30:49.990000Z"
     },
     {
-      "id": "6a6065bea9a98118044b6386",
       "title": "(10/16-18) Pre-Halloween Wkd Camping Near Golden Gate Bridge 🌉 Trick-or-Treat 🎃! Tie-Dye Ghosts, Spooky Tents, Puking Pumpkins",
       "url": "https://www.familyadventuresquad.org/adventures/p/halloween-camping-sanfrancisco",
       "slug": "halloween-camping-sanfrancisco",
@@ -1208,7 +1112,6 @@
       "currency": "USD",
       "variants": [
         {
-          "id": "8b78be11-3c0e-4bb7-9200-3a7e840a3e4a",
           "sku": "SQ7653842",
           "options": {
             "Pricing Types": "(EARLY BIRD until TUESDAY OCT 6): ONE CAMPER  Fri-Sun"
@@ -1218,7 +1121,6 @@
           "stock": 18
         },
         {
-          "id": "eb13c755-7fe2-4488-aa3e-633b0f9d9f8d",
           "sku": "SQ0586114",
           "options": {
             "Pricing Types": "(AFTER TUESDAY OCT 6): ONE CAMPER Fri-Sun"
@@ -1241,7 +1143,6 @@
       "updated": "2026-10-01T17:23:25.388000Z"
     },
     {
-      "id": "6a679030518f516bb6810f58",
       "title": "Black Friday Monarchs, Tidepools & Beach",
       "url": "https://www.familyadventuresquad.org/adventures/p/11/27-blackfriday-monarchbutterflies-beach-tidepools",
       "slug": "11/27-blackfriday-monarchbutterflies-beach-tidepools",
@@ -1256,7 +1157,6 @@
       "currency": "USD",
       "variants": [
         {
-          "id": "73988075-ca3b-404f-9f33-383cc7814889",
           "sku": "SQ5373750",
           "options": {
             "Household": "Single-income family",
@@ -1268,7 +1168,6 @@
           "unlimited": true
         },
         {
-          "id": "67801a17-e8ce-4752-891c-a596517bdfcb",
           "sku": "SQ6135174",
           "options": {
             "Household": "Single-income family",
@@ -1280,7 +1179,6 @@
           "unlimited": true
         },
         {
-          "id": "1dace598-da01-41f6-817c-e9ea7a9cd3dc",
           "sku": "SQ9023703",
           "options": {
             "Household": "Single-income family",
@@ -1292,7 +1190,6 @@
           "unlimited": true
         },
         {
-          "id": "a3717abb-6d3c-47b4-a52c-fbc2917e34b9",
           "sku": "SQ3704823",
           "options": {
             "Household": "Single-income family",
@@ -1304,7 +1201,6 @@
           "unlimited": true
         },
         {
-          "id": "c4a2cd80-ebcc-411c-80a9-44e54782d39a",
           "sku": "SQ0272291",
           "options": {
             "Household": "Single-income family",
@@ -1316,7 +1212,6 @@
           "unlimited": true
         },
         {
-          "id": "0831cabf-81bf-4f44-9266-bc0f4ba874ff",
           "sku": "SQ0114780",
           "options": {
             "Household": "Single-income family",
@@ -1328,7 +1223,6 @@
           "unlimited": true
         },
         {
-          "id": "982f2616-70fd-4a34-9ad0-fc21577a7a55",
           "sku": "SQ2391734",
           "options": {
             "Household": "Single-income family",
@@ -1340,7 +1234,6 @@
           "unlimited": true
         },
         {
-          "id": "b9c248b1-2b22-4b16-90da-750cae5100c8",
           "sku": "SQ9337962",
           "options": {
             "Household": "Single-income family",
@@ -1352,7 +1245,6 @@
           "unlimited": true
         },
         {
-          "id": "79f493e3-ba35-4988-8d9c-453d56201227",
           "sku": "SQ2218823",
           "options": {
             "Household": "Dual-income family",
@@ -1364,7 +1256,6 @@
           "unlimited": true
         },
         {
-          "id": "bbdfaa5e-28c6-46b3-91c0-d24aa621406a",
           "sku": "SQ8562305",
           "options": {
             "Household": "Dual-income family",
@@ -1376,7 +1267,6 @@
           "unlimited": true
         },
         {
-          "id": "c8cc5714-5197-46cb-953e-326e87725884",
           "sku": "SQ4008906",
           "options": {
             "Household": "Dual-income family",
@@ -1388,7 +1278,6 @@
           "unlimited": true
         },
         {
-          "id": "bc2051b3-b749-4764-8dd7-b140e61a95ed",
           "sku": "SQ3563434",
           "options": {
             "Household": "Dual-income family",
@@ -1400,7 +1289,6 @@
           "unlimited": true
         },
         {
-          "id": "cfb13df2-cc60-400a-9ba0-6d56fbfe9ad6",
           "sku": "SQ6855912",
           "options": {
             "Household": "Dual-income family",
@@ -1412,7 +1300,6 @@
           "unlimited": true
         },
         {
-          "id": "2ffa2622-6327-4f0d-9005-bc7ca5c60274",
           "sku": "SQ1792587",
           "options": {
             "Household": "Dual-income family",
@@ -1424,7 +1311,6 @@
           "unlimited": true
         },
         {
-          "id": "ffcc0ec8-e5f6-4222-a318-680be818ecec",
           "sku": "SQ4704068",
           "options": {
             "Household": "Dual-income family",
@@ -1436,7 +1322,6 @@
           "unlimited": true
         },
         {
-          "id": "9ded5b5d-2455-4e61-8cc9-125c9a3558d8",
           "sku": "SQ3752677",
           "options": {
             "Household": "Dual-income family",
@@ -1448,7 +1333,6 @@
           "unlimited": true
         },
         {
-          "id": "7dfe87fc-0394-4223-b907-2ce125e904e6",
           "sku": "SQ2159878",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -1460,7 +1344,6 @@
           "unlimited": true
         },
         {
-          "id": "04131a07-6a87-4ec0-bc66-f2c3dc36e44b",
           "sku": "SQ7627715",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -1472,7 +1355,6 @@
           "unlimited": true
         },
         {
-          "id": "2a3067f8-66df-4e9a-8cab-f980ddb5079b",
           "sku": "SQ4522734",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -1484,7 +1366,6 @@
           "unlimited": true
         },
         {
-          "id": "17b9d965-5727-4167-880d-f8c170b381dc",
           "sku": "SQ3879235",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -1496,7 +1377,6 @@
           "unlimited": true
         },
         {
-          "id": "83a564bb-6685-4ff6-ab11-fa669c950d6e",
           "sku": "SQ5636616",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -1508,7 +1388,6 @@
           "unlimited": true
         },
         {
-          "id": "aafcfb51-3d25-4350-92f3-034f3123ff04",
           "sku": "SQ4978773",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -1520,7 +1399,6 @@
           "unlimited": true
         },
         {
-          "id": "5c02eea4-62c6-4942-9573-af021b47c92e",
           "sku": "SQ1921401",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -1532,7 +1410,6 @@
           "unlimited": true
         },
         {
-          "id": "b64d59a3-86a6-4262-b0ea-eccbbb93472f",
           "sku": "SQ7602887",
           "options": {
             "Household": "Every 10th spot (free)",
@@ -1557,7 +1434,6 @@
       "updated": "2026-09-26T00:28:23.493000Z"
     },
     {
-      "id": "6a4eef94e8c1e95b84e61d4b",
       "title": "Chestnut Orchard, Honey Tasting & a Lake Hike",
       "url": "https://www.familyadventuresquad.org/adventures/p/10/25-chestnuts-honey-fallleaves-lake-hike-8zfs3",
       "slug": "10/25-chestnuts-honey-fallleaves-lake-hike-8zfs3",
@@ -1572,7 +1448,6 @@
       "currency": "USD",
       "variants": [
         {
-          "id": "c683c76a-39d3-44e4-b2cd-672489d4992c",
           "sku": "SQ2810196",
           "options": {
             "Household": "Single-income family",
@@ -1584,7 +1459,6 @@
           "stock": 8
         },
         {
-          "id": "3349c7c4-fff2-4131-a0fe-6f25c6daffec",
           "sku": "SQ5170785",
           "options": {
             "Household": "Single-income family",
@@ -1596,7 +1470,6 @@
           "stock": 8
         },
         {
-          "id": "d7769d3d-5823-43c1-83a4-19724738cd88",
           "sku": "SQ6566233",
           "options": {
             "Household": "Single-income family",
@@ -1608,7 +1481,6 @@
           "stock": 8
         },
         {
-          "id": "9ca420b1-40f3-442f-b4db-8cd47e96b447",
           "sku": "SQ6277479",
           "options": {
             "Household": "Single-income family",
@@ -1620,7 +1492,6 @@
           "stock": 8
         },
         {
-          "id": "3e4da957-a1b0-4510-b8f1-d57a12f3a824",
           "sku": "SQ2957101",
           "options": {
             "Household": "Single-income family",
@@ -1632,7 +1503,6 @@
           "stock": 8
         },
         {
-          "id": "3fbe9b0d-43df-4bc7-a78b-add54c3d066e",
           "sku": "SQ5514912",
           "options": {
             "Household": "Single-income family",
@@ -1644,7 +1514,6 @@
           "stock": 8
         },
         {
-          "id": "17e66c81-4659-46e8-a70f-53ef05b012aa",
           "sku": "SQ6547958",
           "options": {
             "Household": "Single-income family",
@@ -1656,7 +1525,6 @@
           "stock": 8
         },
         {
-          "id": "178b1801-3f1e-4f52-b9dc-6b68fe2bcbb1",
           "sku": "SQ8237266",
           "options": {
             "Household": "Single-income family",
@@ -1668,7 +1536,6 @@
           "stock": 8
         },
         {
-          "id": "b09332e8-d222-47cf-a5fc-d150a0cff11d",
           "sku": "SQ9293177",
           "options": {
             "Household": "Dual-income family",
@@ -1680,7 +1547,6 @@
           "stock": 7
         },
         {
-          "id": "87a9f09a-a458-48ad-9777-0583c1b4256c",
           "sku": "SQ7719366",
           "options": {
             "Household": "Dual-income family",
@@ -1692,7 +1558,6 @@
           "stock": 8
         },
         {
-          "id": "fc3fd788-8c3f-4b29-b463-c776b8c3acf4",
           "sku": "SQ2126467",
           "options": {
             "Household": "Dual-income family",
@@ -1704,7 +1569,6 @@
           "stock": 8
         },
         {
-          "id": "e3e6de14-b0de-43d4-ac68-a23f41839ca3",
           "sku": "SQ4635089",
           "options": {
             "Household": "Dual-income family",
@@ -1716,7 +1580,6 @@
           "stock": 8
         },
         {
-          "id": "fca38a1e-eaac-4742-bf32-e3ba414b6aae",
           "sku": "SQ0716107",
           "options": {
             "Household": "Dual-income family",
@@ -1728,7 +1591,6 @@
           "stock": 8
         },
         {
-          "id": "8ded5049-5ec5-4b37-8a1f-6def20aae7b7",
           "sku": "SQ6372125",
           "options": {
             "Household": "Dual-income family",
@@ -1740,7 +1602,6 @@
           "stock": 8
         },
         {
-          "id": "c3f980c1-a5f7-4717-be46-2b01bf18a0df",
           "sku": "SQ6738312",
           "options": {
             "Household": "Dual-income family",
@@ -1752,7 +1613,6 @@
           "stock": 8
         },
         {
-          "id": "96f586c0-84ea-44f6-96ea-8d2a8ddaf85b",
           "sku": "SQ3326742",
           "options": {
             "Household": "Dual-income family",

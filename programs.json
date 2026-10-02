@@ -3,7 +3,6 @@
   "title": "Programs",
   "products": [
     {
-      "id": "6880138dc3f52f7dc519718c",
       "title": "Toddle Dawdle + Forest Explorers: Silly Slugs",
       "url": "https://www.familyadventuresquad.org/programs/p/toddle-dawdl-forest-explorer-program",
       "slug": "toddle-dawdl-forest-explorer-program",
@@ -17,7 +16,6 @@
       "currency": "USD",
       "variants": [
         {
-          "id": "74b23185-ceae-4a2d-b61d-fa0ba62da0eb",
           "sku": "SQ1660457",
           "options": {
             "Season": "Fall",
@@ -28,7 +26,6 @@
           "unlimited": true
         },
         {
-          "id": "74366d12-6854-4814-ab51-db6de4c39d3f",
           "sku": "SQ1080841",
           "options": {
             "Season": "Fall",
@@ -39,7 +36,6 @@
           "unlimited": true
         },
         {
-          "id": "20f7f895-6088-4438-b5f9-c5b36361de48",
           "sku": "SQ1796976",
           "options": {
             "Season": "Fall",
@@ -50,7 +46,6 @@
           "unlimited": true
         },
         {
-          "id": "c9102289-9363-4ee1-b1ac-2f0cf6c8aed3",
           "sku": "SQ0216472",
           "options": {
             "Season": "Spring",
@@ -61,7 +56,6 @@
           "unlimited": true
         },
         {
-          "id": "0dad8001-de73-47a8-8a16-a2f9e5bfddf1",
           "sku": "SQ3178370",
           "options": {
             "Season": "Spring",
@@ -72,7 +66,6 @@
           "unlimited": true
         },
         {
-          "id": "5e47356d-360c-4e74-bf20-9cf53b4ade64",
           "sku": "SQ0797031",
           "options": {
             "Season": "Spring",
@@ -83,7 +76,6 @@
           "unlimited": true
         },
         {
-          "id": "398d5669-e46d-478d-a507-88b893430c37",
           "sku": "SQ4607200",
           "options": {
             "Season": "One-time trial drop-in",
@@ -94,7 +86,6 @@
           "unlimited": true
         },
         {
-          "id": "9b09dbb5-ee8f-4ed6-a752-06112ed57971",
           "sku": "SQ0283063",
           "options": {
             "Season": "One-time trial drop-in",
@@ -105,7 +96,6 @@
           "unlimited": true
         },
         {
-          "id": "7c4e6178-73ed-48f8-997e-61737d888c10",
           "sku": "SQ7062384",
           "options": {
             "Season": "One-time trial drop-in",
@@ -129,7 +119,6 @@
       "updated": "2026-09-29T15:28:43.284000Z"
     },
     {
-      "id": "691b7ecf07c6a853db226f06",
       "title": "Toddle Dawdle + Forest Explorers: Happy Hawks",
       "url": "https://www.familyadventuresquad.org/programs/p/toddle-dawdle-forest-explorer-program-spring-winter-2026",
       "slug": "toddle-dawdle-forest-explorer-program-spring-winter-2026",
@@ -143,7 +132,6 @@
       "currency": "USD",
       "variants": [
         {
-          "id": "03f5dfb1-1db0-4877-a627-86a276bdbba6",
           "sku": "SQ7241737",
           "options": {
             "Season": "Fall",
@@ -154,7 +142,6 @@
           "unlimited": true
         },
         {
-          "id": "ad6a19a3-8b55-4c11-adbc-ecbf7e3ec2bb",
           "sku": "SQ1620927",
           "options": {
             "Season": "Fall",
@@ -165,7 +152,6 @@
           "unlimited": true
         },
         {
-          "id": "fed30768-3945-41ff-9079-587ec48ee86b",
           "sku": "SQ9432954",
           "options": {
             "Season": "Fall",
@@ -176,7 +162,6 @@
           "unlimited": true
         },
         {
-          "id": "17f4f767-40c7-4956-9e04-1f2394a8cbb9",
           "sku": "SQ6467750",
           "options": {
             "Season": "Spring",
@@ -187,7 +172,6 @@
           "unlimited": true
         },
         {
-          "id": "7c87b51f-5d27-4b1f-879f-052d5776f588",
           "sku": "SQ8370426",
           "options": {
             "Season": "Spring",
@@ -198,7 +182,6 @@
           "unlimited": true
         },
         {
-          "id": "9bcf6fb1-3624-4c2d-b41b-fc4709e0167b",
           "sku": "SQ3460178",
           "options": {
             "Season": "Spring",
@@ -209,7 +192,6 @@
           "unlimited": true
         },
         {
-          "id": "653232b7-93c3-467e-9830-91673f3e288f",
           "sku": "SQ3122158",
           "options": {
             "Season": "One-time trial drop-in",
@@ -220,7 +202,6 @@
           "unlimited": true
         },
         {
-          "id": "0e60d113-b0c7-4aa9-a637-a2cf2a90ec74",
           "sku": "SQ1929569",
           "options": {
             "Season": "One-time trial drop-in",
@@ -231,7 +212,6 @@
           "unlimited": true
         },
         {
-          "id": "b62c30de-6350-461c-b5f4-f3324a7c66ca",
           "sku": "SQ9093425",
           "options": {
             "Season": "One-time trial drop-in",

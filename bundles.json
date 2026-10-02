@@ -3,7 +3,6 @@
   "title": "Bundles",
   "products": [
     {
-      "id": "6a4ee8144e966f26257ee301",
       "title": "Fall Bundle: Blue Angels + Monarch Butterflies",
       "url": "https://www.familyadventuresquad.org/bundles/p/fall-family-adventures-save-bundle",
       "slug": "fall-family-adventures-save-bundle",
@@ -30,7 +29,6 @@
       "currency": "USD",
       "variants": [
         {
-          "id": "3274a147-c2f8-49bc-8b58-7e3f2ac53736",
           "sku": "SQ1296667",
           "options": {
             "Household": "Single-income family",
@@ -41,7 +39,6 @@
           "unlimited": true
         },
         {
-          "id": "a75aa98c-4ac1-442c-b385-e20b78da3977",
           "sku": "SQ6774577",
           "options": {
             "Household": "Single-income family",
@@ -52,7 +49,6 @@
           "unlimited": true
         },
         {
-          "id": "dada3e59-a574-4375-9519-36c155dabcfb",
           "sku": "SQ5011475",
           "options": {
             "Household": "Single-income family",
@@ -63,7 +59,6 @@
           "unlimited": true
         },
         {
-          "id": "65aa5f82-434d-4e5b-90cb-7f39736be15a",
           "sku": "SQ0409119",
           "options": {
             "Household": "Single-income family",
@@ -74,7 +69,6 @@
           "unlimited": true
         },
         {
-          "id": "75e6bc01-8ddf-41a4-84d1-2278c33e4ade",
           "sku": "SQ9052088",
           "options": {
             "Household": "Dual-income family",
@@ -85,7 +79,6 @@
           "unlimited": true
         },
         {
-          "id": "5e17c500-737b-4407-a3e6-179d3199fae0",
           "sku": "SQ3816232",
           "options": {
             "Household": "Dual-income family",
@@ -96,7 +89,6 @@
           "unlimited": true
         },
         {
-          "id": "a1fca43a-f5c7-45b4-b997-030883ba5bef",
           "sku": "SQ5235652",
           "options": {
             "Household": "Dual-income family",
@@ -107,7 +99,6 @@
           "unlimited": true
         },
         {
-          "id": "f6b4097d-1f04-498e-98d8-355c42748e4e",
           "sku": "SQ6587750",
           "options": {
             "Household": "Dual-income family",
@@ -131,7 +122,6 @@
       "updated": "2026-09-25T22:59:12.591000Z"
     },
     {
-      "id": "6ab44df6be9ef05f2cc0233f",
       "title": "Winter Bundle: Chestnuts, Waterfalls + Redwoods",
       "url": "https://www.familyadventuresquad.org/bundles/p/winter-wonders-family-adventure-bundle",
       "slug": "winter-wonders-family-adventure-bundle",
@@ -156,7 +146,6 @@
       "currency": "USD",
       "variants": [
         {
-          "id": "e93ea0df-b9b2-441c-9921-b5ee52487d8f",
           "sku": "SQ3411782",
           "options": {
             "Household": "Single-income family",
@@ -167,7 +156,6 @@
           "unlimited": true
         },
         {
-          "id": "eae3835c-31d3-49a1-baf0-4d34c5ba7698",
           "sku": "SQ9892939",
           "options": {
             "Household": "Single-income family",
@@ -178,7 +166,6 @@
           "unlimited": true
         },
         {
-          "id": "1edd5d35-1cac-4c2b-922d-42afa643ce11",
           "sku": "SQ0369319",
           "options": {
             "Household": "Single-income family",
@@ -189,7 +176,6 @@
           "unlimited": true
         },
         {
-          "id": "30ad4e9d-6d06-4dc6-b45f-6df2393ab430",
           "sku": "SQ0528814",
           "options": {
             "Household": "Single-income family",
@@ -200,7 +186,6 @@
           "unlimited": true
         },
         {
-          "id": "2843099c-436c-4bca-a6c0-c3f5a5eb5323",
           "sku": "SQ2892254",
           "options": {
             "Household": "Dual-income family",
@@ -211,7 +196,6 @@
           "unlimited": true
         },
         {
-          "id": "e4fad49d-63f5-4647-bc17-41d498dd630c",
           "sku": "SQ7991598",
           "options": {
             "Household": "Dual-income family",
@@ -222,7 +206,6 @@
           "unlimited": true
         },
         {
-          "id": "5e500960-7c59-4840-97d9-eb7e11a80b1c",
           "sku": "SQ5247910",
           "options": {
             "Household": "Dual-income family",
@@ -233,7 +216,6 @@
           "unlimited": true
         },
         {
-          "id": "ab9b80a9-a66c-44cf-ae8f-7940d13c51f5",
           "sku": "SQ9229123",
           "options": {
             "Household": "Dual-income family",
