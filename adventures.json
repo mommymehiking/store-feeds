@@ -688,7 +688,7 @@
           },
           "price": "26.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -717,7 +717,7 @@
           "alt": "Upper level of the first class dome car on the Niles Canyon Railway: rows of seats under a curved glass roof for watching the canyon go by"
         }
       ],
-      "updated": "2026-10-04T01:51:55.592000Z"
+      "updated": "2026-10-04T16:23:26.844000Z"
     },
     {
       "title": "Blue Angels Front-Row View, Tunnels & Beach",
@@ -739,7 +739,7 @@
           },
           "price": "64.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -759,7 +759,7 @@
           },
           "price": "74.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -779,7 +779,7 @@
           },
           "price": "84.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -799,7 +799,7 @@
           },
           "price": "94.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -819,7 +819,7 @@
           },
           "price": "74.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -839,7 +839,7 @@
           },
           "price": "84.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -859,7 +859,7 @@
           },
           "price": "94.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -879,7 +879,7 @@
           },
           "price": "104.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -899,7 +899,7 @@
           },
           "price": "0.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -919,7 +919,7 @@
           },
           "price": "0.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -939,7 +939,7 @@
           },
           "price": "0.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -959,11 +959,91 @@
           },
           "price": "0.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
             "Household": "Every 10th spot (free)",
+            "Children": "5+",
+            "Rate": "Regular (after Oct. 4)"
+          },
+          "price": "0.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Household": "Waitlist",
+            "Children": "Up to 2",
+            "Rate": "Early bird (until Oct. 4)"
+          },
+          "price": "0.00",
+          "on_sale": false,
+          "stock": 0
+        },
+        {
+          "options": {
+            "Household": "Waitlist",
+            "Children": "Up to 2",
+            "Rate": "Regular (after Oct. 4)"
+          },
+          "price": "0.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Household": "Waitlist",
+            "Children": "3",
+            "Rate": "Early bird (until Oct. 4)"
+          },
+          "price": "0.00",
+          "on_sale": false,
+          "stock": 0
+        },
+        {
+          "options": {
+            "Household": "Waitlist",
+            "Children": "3",
+            "Rate": "Regular (after Oct. 4)"
+          },
+          "price": "0.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Household": "Waitlist",
+            "Children": "4",
+            "Rate": "Early bird (until Oct. 4)"
+          },
+          "price": "0.00",
+          "on_sale": false,
+          "stock": 0
+        },
+        {
+          "options": {
+            "Household": "Waitlist",
+            "Children": "4",
+            "Rate": "Regular (after Oct. 4)"
+          },
+          "price": "0.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Household": "Waitlist",
+            "Children": "5+",
+            "Rate": "Early bird (until Oct. 4)"
+          },
+          "price": "0.00",
+          "on_sale": false,
+          "stock": 0
+        },
+        {
+          "options": {
+            "Household": "Waitlist",
             "Children": "5+",
             "Rate": "Regular (after Oct. 4)"
           },
@@ -978,7 +1058,7 @@
           "alt": "Collage by the Golden Gate Bridge, San Francisco: Blue Angels jets flying past the bridge, a beach looking out to it, historic cannons, blackberries and a seal."
         }
       ],
-      "updated": "2026-10-03T17:08:24.326000Z"
+      "updated": "2026-10-05T04:16:51.692000Z"
     },
     {
       "title": "(10/16-18) Pre-Halloween Wkd Camping Near Golden Gate Bridge 🌉 Trick-or-Treat 🎃! Tie-Dye Ghosts, Spooky Tents, Puking Pumpkins",
