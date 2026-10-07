@@ -774,7 +774,7 @@
           },
           "price": "66.00",
           "on_sale": false,
-          "stock": 0
+          "stock": 3
         },
         {
           "options": {
@@ -1172,7 +1172,7 @@
           },
           "price": "175.00",
           "on_sale": false,
-          "stock": 18
+          "stock": 0
         },
         {
           "options": {
