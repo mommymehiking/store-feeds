@@ -43,7 +43,7 @@
           "alt": "Crosstown_2026_Collage.jpg"
         }
       ],
-      "updated": "2026-10-05T22:27:47.762000Z"
+      "updated": "2026-10-07T17:35:15.961000Z"
     },
     {
       "title": "MLK Day Redwoods, Banana Slugs & Ocean Rocks",
@@ -364,7 +364,7 @@
           "alt": "Collage on the Peninsula: a yellow banana slug, families hiking, a large group waving beneath a giant redwood, and fungi on the forest floor."
         }
       ],
-      "updated": "2026-10-03T17:13:05.538000Z"
+      "updated": "2026-10-07T17:36:01.980000Z"
     },
     {
       "title": "Winter Waterfalls, Ladybugs & Banana Slugs",
@@ -625,7 +625,7 @@
           "alt": "Collage in the South Bay: a mom and son at a winter waterfall, a family by a mossy cascade, turkey tail fungi, mushrooms, clustered ladybugs and a spotted banana slug."
         }
       ],
-      "updated": "2026-10-03T17:11:14.795000Z"
+      "updated": "2026-10-07T17:36:53.457000Z"
     },
     {
       "title": "Summit Sisters: Power Hike & Strength Training",
@@ -674,7 +674,7 @@
           "alt": "Collage in the Los Altos Hills: women posing on a dry hilltop trail, smiling group selfies, and oak-dotted hills."
         }
       ],
-      "updated": "2026-10-05T20:47:48.172000Z"
+      "updated": "2026-10-07T17:37:25.827000Z"
     },
     {
       "title": "Niles Canyon Railway Holiday Train of Lights",
@@ -774,7 +774,7 @@
           },
           "price": "66.00",
           "on_sale": false,
-          "stock": 3
+          "stock": 1
         },
         {
           "options": {
@@ -843,7 +843,7 @@
           },
           "price": "74.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -863,7 +863,7 @@
           },
           "price": "84.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -883,7 +883,7 @@
           },
           "price": "94.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -903,7 +903,7 @@
           },
           "price": "104.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -923,7 +923,7 @@
           },
           "price": "84.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 1
         },
         {
           "options": {
@@ -943,7 +943,7 @@
           },
           "price": "94.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -963,7 +963,7 @@
           },
           "price": "104.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -983,7 +983,7 @@
           },
           "price": "114.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -1003,7 +1003,7 @@
           },
           "price": "0.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -1023,7 +1023,7 @@
           },
           "price": "0.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -1043,7 +1043,7 @@
           },
           "price": "0.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -1063,7 +1063,7 @@
           },
           "price": "0.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         },
         {
           "options": {
@@ -1152,7 +1152,7 @@
           "alt": "Collage by the Golden Gate Bridge, San Francisco: Blue Angels jets flying past the bridge, a beach looking out to it, historic cannons, blackberries and a seal."
         }
       ],
-      "updated": "2026-10-05T04:16:51.692000Z"
+      "updated": "2026-10-07T19:08:25.851000Z"
     },
     {
       "title": "(10/16-18) Pre-Halloween Wkd Camping Near Golden Gate Bridge 🌉 Trick-or-Treat 🎃! Tie-Dye Ghosts, Spooky Tents, Puking Pumpkins",
@@ -1189,7 +1189,7 @@
           "alt": "Collage in San Francisco: families in Halloween costumes with glowing lanterns at dusk, a big costumed group waving at camp, and children doing crafts."
         }
       ],
-      "updated": "2026-10-03T17:15:01.710000Z"
+      "updated": "2026-10-07T17:39:21.503000Z"
     },
     {
       "title": "Black Friday Monarchs, Tidepools & Beach",
@@ -1450,7 +1450,7 @@
           "alt": "Collage: monarch butterflies clustered on a eucalyptus branch, a child pointing up into the trees, and families exploring the beach and tidepools."
         }
       ],
-      "updated": "2026-10-03T17:09:49.710000Z"
+      "updated": "2026-10-07T17:38:42.411000Z"
     },
     {
       "title": "Chestnut Orchard, Honey Tasting & a Lake Hike",
@@ -1631,7 +1631,7 @@
           "alt": "Collage near La Honda: a child holding a fall leaf, chestnuts in spiky husks, a bowl of roasted chestnuts, and children carrying baskets on a trail."
         }
       ],
-      "updated": "2026-10-03T17:04:08.089000Z"
+      "updated": "2026-10-07T17:40:00.161000Z"
     }
   ]
 }
