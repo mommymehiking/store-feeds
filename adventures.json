@@ -814,43 +814,6 @@
       "updated": "2026-10-09T20:39:53.206000Z"
     },
     {
-      "title": "(10/16-18) Pre-Halloween Wkd Camping Near Golden Gate Bridge 🌉 Trick-or-Treat 🎃! Tie-Dye Ghosts, Spooky Tents, Puking Pumpkins",
-      "url": "https://www.familyadventuresquad.org/adventures/p/halloween-camping-sanfrancisco",
-      "tags": [
-        "Fri–Sun‚ Oct 16–18",
-        "San Francisco",
-        "Easy",
-        "All ages"
-      ],
-      "description_html": "<p>Camp in a forest by the Golden Gate Bridge, right in San Francisco! 🌉 Haunted tents, a glow-in-the-dark tunnel, tie-dye ghost shirts, puking pumpkins, trick-or-treating between tents and a costume parade. It's two weeks before Halloween, so you still get to trick-or-treat at home! 🎃</p><p><strong>Friday, Oct. 16 — Sunday, Oct. 18 </strong></p><p><strong>A Halloween camping weekend for the books!!!&nbsp;</strong></p><p><strong>WHAT WE'LL ENJOY 🥳🥳🥳</strong></p><p><strong>SOME SPOOK-TACULAR ACTIVITIES:</strong></p><ul data-rte-list=\"default\"><li><p>👕🎃 <strong>Tie-dye workshop:</strong> A tie-dye artist teaches kids to make pumpkin and ghost shirts to take home and wear on Halloween</p></li><li><p>🎃🧪 <strong>Puking pumpkins science project:</strong> Watch the pumpkins “puke”! Gross, silly and SO much fun 🤮</p></li><li><p>👻⛺ <strong>Haunted tents:</strong> Spooky-fun and gentle enough for the littlest campers</p></li><li><p>✨🔦💀 <strong>Glow-in-the-dark tunnel:</strong> Kids help build and paint it, then watch it light up after dark</p></li><li><p>🍬🍫 <strong>Trick-or-treating between tents:</strong> Kids go tent to tent in costume</p></li><li><p>🏕️🕷️ <strong>Best-decorated tent contest:</strong> Show off your spookiest, most creative campsite setup</p></li><li><p>🎭👣 <strong>Costume parade and Halloween party:</strong> Show us your best, with games and activities!</p></li><li><p>🔥👻 <strong>Campfire ghost stories:</strong> The silly kind, not too scary! 🌕</p></li><li><p>🪱 <strong>Dirt ‘n worms pudding:</strong> Classic Halloween treats, plus spooky campfire goodies and s’mores</p></li><li><p>🎨🦇 <strong>Halloween arts and crafts:</strong> All weekend long</p></li></ul><p><strong>ALSO:</strong><br /><br />Tucked in the Presidio's forested hills, this campground offers families an idyllic escape right in the city, just a short walk from the coast:</p><ul data-rte-list=\"default\"><li><p><strong>Golden Gate Bridge iconic views:</strong> A short walk down the trail from the campsite takes you to a spot with beautiful views of the Golden Gate Bridge and the Marin Headlands</p></li><li><p>🐛🐌 <strong>Bug and banana slug hunts:</strong> We’ve found SO many here!</p></li><li><p>🪵🏰 <strong>Fort hunting in the forest, or build your own!</strong> There have been some great forts here in the past.</p></li><li><p>🏖️ <strong>Beachcombing+ beach play: </strong>Look for seashells, sea stars and hermit crabs, or build the most creative sandcastle decorated with shells and driftwood, with the Golden Gate Bridge as your backdrop</p></li><li><p>🕵️ <strong>Exploring old military bunkers with stairs and nooks</strong></p></li><li><p><strong>🌼 Looking for late-season wildflowers</strong></p></li><li><p>🚢  <strong>Watching tanker ships and planes sail or fly by the busy Golden Gate as fog horns echo in the distance</strong></p></li><li><p>🌅 <strong>Taking in a breathtaking sunset over the Golden Gate</strong></p></li><li><p><strong>🔥🍫 Classic camping fun:</strong> campfire, stories, s'mores, gazing up at a blanket of stars while roasting marshmallows, and quality time away from screens (yes, we can have a fire!)</p></li><li><p>🔍🗺️ <strong>Scavenger hunt and educational activities for families</strong></p></li><li><p>🎨🖍️ <strong>Toy and arts-and-craft station for the kids when we're not out adventuring</strong></p></li><li><p>🫶🏿🫶🏾🫶🏽 <strong>Community, friendship and support:</strong> Instant 'playdate' for your kiddos! We usually have kids from toddlers up to tweens join, with all of the kids playing together! You might see old MMH friends + hopefully make some new ones, too! MMH offers all kinds of support: Need help setting up your tent? Solo parenting on the adventure and need some extra support? We got you!</p></li></ul><p><strong>This is our idea of CAMP for kids, but it's for families and we get to explore different campgrounds and parks! You will make wonderful memories with your family and friends 🏕️❤️🫂🤲🏽!!</strong></p>",
-      "currency": "USD",
-      "variants": [
-        {
-          "options": {
-            "Pricing Types": "(EARLY BIRD until TUESDAY OCT 6): ONE CAMPER  Fri-Sun"
-          },
-          "price": "175.00",
-          "on_sale": false,
-          "stock": 0
-        },
-        {
-          "options": {
-            "Pricing Types": "(AFTER TUESDAY OCT 6): ONE CAMPER Fri-Sun"
-          },
-          "price": "200.00",
-          "on_sale": false,
-          "unlimited": true
-        }
-      ],
-      "images": [
-        {
-          "url": "https://images.squarespace-cdn.com/content/v1/6799541e51aabe5f108a883c/93b2f7c8-c067-4883-a978-a467d53db3d9/family-halloween-camping-costumes.jpg",
-          "alt": "Collage in San Francisco: families in Halloween costumes with glowing lanterns at dusk, a big costumed group waving at camp, and children doing crafts."
-        }
-      ],
-      "updated": "2026-10-16T18:14:14.356000Z"
-    },
-    {
       "title": "Black Friday Monarchs, Tidepools & Beach",
       "url": "https://www.familyadventuresquad.org/adventures/p/11/27-blackfriday-monarchbutterflies-beach-tidepools",
       "tags": [
@@ -1211,7 +1174,7 @@
           },
           "price": "64.00",
           "on_sale": false,
-          "stock": 8
+          "stock": 0
         },
         {
           "options": {
@@ -1221,7 +1184,7 @@
           },
           "price": "74.00",
           "on_sale": false,
-          "stock": 8
+          "stock": 16
         },
         {
           "options": {
@@ -1231,7 +1194,7 @@
           },
           "price": "74.00",
           "on_sale": false,
-          "stock": 8
+          "stock": 0
         },
         {
           "options": {
@@ -1241,7 +1204,7 @@
           },
           "price": "84.00",
           "on_sale": false,
-          "stock": 8
+          "stock": 16
         },
         {
           "options": {
@@ -1251,7 +1214,7 @@
           },
           "price": "84.00",
           "on_sale": false,
-          "stock": 8
+          "stock": 0
         },
         {
           "options": {
@@ -1261,7 +1224,7 @@
           },
           "price": "94.00",
           "on_sale": false,
-          "stock": 8
+          "stock": 16
         },
         {
           "options": {
@@ -1271,7 +1234,7 @@
           },
           "price": "94.00",
           "on_sale": false,
-          "stock": 8
+          "stock": 0
         },
         {
           "options": {
@@ -1281,7 +1244,7 @@
           },
           "price": "104.00",
           "on_sale": false,
-          "stock": 8
+          "stock": 16
         },
         {
           "options": {
@@ -1291,7 +1254,7 @@
           },
           "price": "74.00",
           "on_sale": false,
-          "stock": 7
+          "stock": 0
         },
         {
           "options": {
@@ -1301,7 +1264,7 @@
           },
           "price": "84.00",
           "on_sale": false,
-          "stock": 8
+          "stock": 15
         },
         {
           "options": {
@@ -1311,7 +1274,7 @@
           },
           "price": "84.00",
           "on_sale": false,
-          "stock": 8
+          "stock": 0
         },
         {
           "options": {
@@ -1321,7 +1284,7 @@
           },
           "price": "94.00",
           "on_sale": false,
-          "stock": 8
+          "stock": 16
         },
         {
           "options": {
@@ -1331,7 +1294,7 @@
           },
           "price": "94.00",
           "on_sale": false,
-          "stock": 8
+          "stock": 0
         },
         {
           "options": {
@@ -1341,7 +1304,7 @@
           },
           "price": "104.00",
           "on_sale": false,
-          "stock": 8
+          "stock": 16
         },
         {
           "options": {
@@ -1351,7 +1314,7 @@
           },
           "price": "104.00",
           "on_sale": false,
-          "stock": 8
+          "stock": 0
         },
         {
           "options": {
@@ -1361,7 +1324,7 @@
           },
           "price": "114.00",
           "on_sale": false,
-          "stock": 8
+          "stock": 16
         }
       ],
       "images": [
