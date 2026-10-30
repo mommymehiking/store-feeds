@@ -1,6 +1,54 @@
 {
   "products": [
     {
+      "title": "Give an Adventure: FAS Gift Card 🎁",
+      "url": "https://www.familyadventuresquad.org/adventures/p/give-an-adventure-fas-gift-card-",
+      "tags": [],
+      "description_html": "<p>Skip the stuff. Give a day outside together!</p><p>FAS gift cards work for any of our adventures: moms-only hikes, family day outings, camping weekends and more. They arrive by email with a code to use at checkout.</p><p>$40 covers a moms-only day hike</p><p>$64 covers a family day outing</p><p>$100 or $200 goes toward one of our signature camping trips</p>",
+      "currency": "USD",
+      "variants": [
+        {
+          "options": {
+            "Value": "$40.00"
+          },
+          "price": "40.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$64.00"
+          },
+          "price": "64.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$100.00"
+          },
+          "price": "100.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$200.00"
+          },
+          "price": "200.00",
+          "on_sale": false,
+          "unlimited": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6799541e51aabe5f108a883c/26395dad-e88c-457b-923e-15bedd8c6030/fas-gift-card-skyline-ridge.jpg",
+          "alt": "fas-gift-card-skyline-ridge.jpg"
+        }
+      ],
+      "updated": "2026-10-29T21:43:03.499000Z"
+    },
+    {
       "title": "(11/1) MOMSTRONG: Secret San Francisco Power Hike",
       "url": "https://www.familyadventuresquad.org/adventures/p/momstrong-sf",
       "tags": [
