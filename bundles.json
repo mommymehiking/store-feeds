@@ -185,6 +185,59 @@
         }
       ],
       "updated": "2026-10-29T21:46:27.515000Z"
+    },
+    {
+      "title": "Give an Adventure: FAS Gift Card 🎁",
+      "url": "https://www.familyadventuresquad.org/bundles/p/gift-card",
+      "tags": [
+        "Anytime",
+        "Anywhere",
+        "Any level",
+        "All ages"
+      ],
+      "description_html": "<p>Skip the stuff. Give a day outside together!</p><p>FAS gift cards work for any of our adventures: moms-only hikes, family day outings, camping weekends and more. They arrive by email with a code to use at checkout.</p><p>$40 covers a moms-only day hike</p><p>$64 covers a family day outing</p><p>$100 or $200 goes toward one of our signature camping trips</p>",
+      "currency": "USD",
+      "variants": [
+        {
+          "options": {
+            "Value": "$40.00"
+          },
+          "price": "40.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$64.00"
+          },
+          "price": "64.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$100.00"
+          },
+          "price": "100.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$200.00"
+          },
+          "price": "200.00",
+          "on_sale": false,
+          "unlimited": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6799541e51aabe5f108a883c/c59b8e46-2bbd-46c2-8e04-edfb28ba3215/kids-dirt-trail-skyline-ridge.jpg",
+          "alt": "Two children in caps, one in a blue jacket, on a dirt path through dry grass at Skyline Ridge; adults and kids on the road ahead, a golden hill and wooded ridge under wispy clouds"
+        }
+      ],
+      "updated": "2026-10-31T00:32:55.971000Z"
     }
   ]
 }
