@@ -91,7 +91,7 @@
           "alt": "Collage: a child picking apples, Blue Angels jets flying past the Golden Gate Bridge, and monarch butterflies clustered on branches."
         }
       ],
-      "updated": "2026-10-16T18:21:16.485000Z"
+      "updated": "2026-10-31T20:57:52.321000Z"
     },
     {
       "title": "Winter Bundle: Waterfalls + Redwoods",
@@ -195,7 +195,7 @@
         "Any level",
         "All ages"
       ],
-      "description_html": "<p>Skip the stuff. Give a day outside together!</p><p>FAS gift cards work for any of our adventures: moms-only hikes, family day outings, camping weekends and more. They arrive by email with a code to use at checkout.</p><p>$40 covers a moms-only day hike</p><p>$64 covers a family day outing</p><p>$100 or $200 goes toward one of our signature camping trips</p>",
+      "description_html": "<p>Skip the stuff. Give a day outside together!</p><p>FAS gift cards work for any of our adventures: moms-only hikes, family day outings, camping weekends and more. They arrive by email with a code to use at checkout.</p><p>$40 covers a moms-only day hike</p><p>$65 covers a family day outing</p><p>$100 or $200 goes toward one of our signature camping trips</p>",
       "currency": "USD",
       "variants": [
         {
@@ -208,9 +208,9 @@
         },
         {
           "options": {
-            "Value": "$64.00"
+            "Value": "$65.00"
           },
-          "price": "64.00",
+          "price": "65.00",
           "on_sale": false,
           "unlimited": true
         },
@@ -229,6 +229,342 @@
           "price": "200.00",
           "on_sale": false,
           "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$225.00"
+          },
+          "price": "225.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$25.00"
+          },
+          "price": "25.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$30.00"
+          },
+          "price": "30.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$35.00"
+          },
+          "price": "35.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$45.00"
+          },
+          "price": "45.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$50.00"
+          },
+          "price": "50.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$55.00"
+          },
+          "price": "55.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$60.00"
+          },
+          "price": "60.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$70.00"
+          },
+          "price": "70.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$75.00"
+          },
+          "price": "75.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$80.00"
+          },
+          "price": "80.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$85.00"
+          },
+          "price": "85.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$90.00"
+          },
+          "price": "90.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$95.00"
+          },
+          "price": "95.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$105.00"
+          },
+          "price": "105.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$110.00"
+          },
+          "price": "110.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$115.00"
+          },
+          "price": "115.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$120.00"
+          },
+          "price": "120.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$125.00"
+          },
+          "price": "125.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$130.00"
+          },
+          "price": "130.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$135.00"
+          },
+          "price": "135.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$140.00"
+          },
+          "price": "140.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$145.00"
+          },
+          "price": "145.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$150.00"
+          },
+          "price": "150.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$155.00"
+          },
+          "price": "155.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$160.00"
+          },
+          "price": "160.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$165.00"
+          },
+          "price": "165.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$170.00"
+          },
+          "price": "170.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$175.00"
+          },
+          "price": "175.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$180.00"
+          },
+          "price": "180.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$185.00"
+          },
+          "price": "185.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$190.00"
+          },
+          "price": "190.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$195.00"
+          },
+          "price": "195.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$205.00"
+          },
+          "price": "205.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$210.00"
+          },
+          "price": "210.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$215.00"
+          },
+          "price": "215.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$220.00"
+          },
+          "price": "220.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$230.00"
+          },
+          "price": "230.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$235.00"
+          },
+          "price": "235.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$240.00"
+          },
+          "price": "240.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$245.00"
+          },
+          "price": "245.00",
+          "on_sale": false,
+          "unlimited": true
+        },
+        {
+          "options": {
+            "Value": "$250.00"
+          },
+          "price": "250.00",
+          "on_sale": false,
+          "unlimited": true
         }
       ],
       "images": [
@@ -237,7 +573,7 @@
           "alt": "Two children in caps, one in a blue jacket, on a dirt path through dry grass at Skyline Ridge; adults and kids on the road ahead, a golden hill and wooded ridge under wispy clouds"
         }
       ],
-      "updated": "2026-10-31T00:32:55.971000Z"
+      "updated": "2026-10-31T14:49:52.125000Z"
     }
   ]
 }
