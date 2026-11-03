@@ -1,51 +1,6 @@
 {
   "products": [
     {
-      "title": "(11/1) MOMSTRONG: Secret San Francisco Power Hike",
-      "url": "https://familyadventuresquad.org/adventures/p/momstrong-sf",
-      "tags": [
-        "Sun, Nov 1",
-        "SF",
-        "Moms only",
-        "Moderate"
-      ],
-      "description_html": "<p>Seven miles and 1,000+ feet of climbing across San Francisco: hidden paths, native plants, city critters, murals and secret views — PLUS a real-deal diner with pancakes and an awesome taqueria, an old-school ice cream shop and indie bookstores. Finish strong and take home a hand-carved WILD leaf. 🍃 <strong>A post-Halloween treat for moms who want to do something hard (and sweet) together. 🎃🍬💪🏾</strong></p><p><strong>Sunday, Nov. 1, 9:30 a.m.–3:30 p.m.</strong></p><h2>THIS ONE'S YOUR TREAT, MAMA. 🍬</h2><h3>7 Miles. 1,000+ Ft of Climbing. Secret Views. Sweet Rewards. YOU.</h3><p><strong>Sunday, Nov. 1 | 9:30 AM Sharp–3:30 PM</strong></p><p><em>Need to peel off early? No problem — you're welcome to head out whenever you need to.</em></p><p>Mamas — you just survived Halloween. The costumes, the sugar highs, the \"just ONE more piece.\" Now it's YOUR turn for a treat.</p><p>We're lacing up and crossing San Francisco on foot — climbing hills, slipping onto hidden paths and discovering the wild, beautiful side of the city most people drive right past.</p><p>Let's be clear: we WILL hike. It won't be easy. San Francisco's hills don't mess around. But every climb comes with a payoff — a mural, a view, a pocket of wild green, a stack of pancakes. 🥞</p><p><strong>If you're asking yourself if you can do it, I'm here to tell you that yes, you can.</strong></p><p>Summit Sisters, this one's for you too — and new mamas, come find your crew! 💛</p><p><strong>TOGETHER, WE WILL DO THIS. 💪🏾🌿</strong></p><h2>THE CITY'S WILD SIDE 🌿</h2><p>San Francisco is hiding a whole other world in plain sight. Tucked between the neighborhoods are wooded paths, canyon trails and hillsides covered in native plants that were here long before any of us. Towering trees. Wildflowers. Hawks circling overhead and hummingbirds working the blooms.</p><p>One minute you'll feel miles from anywhere — then you turn a corner and there's the skyline. That's the magic of this route.</p><h2>WHAT AWAITS YOU 💥</h2><p><strong>🌲 Hidden Paths + Secret Stairways</strong> Forget the main roads. We'll climb mural-covered stairways, duck onto wooded trails and find shortcuts you'll be bragging about at school pickup.</p><p><strong>🌼 Native Plants + City Critters</strong> Real nature, right in the city. We'll stop to meet the native plants and keep watch for the wildlife that thrives here. It's a naturalist's treasure hunt on every block.</p><p><strong>🎨 Murals, Little Libraries + Hidden Gems</strong> Giant painted flowers, sweeping hillside murals, whimsical little free libraries — on foot, the whole city becomes an open-air gallery. Charge your phone. You'll want the photos.</p><p><strong>📸 Sutro Tower Like You've Never Seen It</strong> Everyone knows Sutro Tower. We'll find the lesser-known spots where it shows off — towering overhead, framed by trees, peeking over the rooftops. Photo ops galore.</p><p><strong>🏘️ Charming Neighborhoods</strong> We'll wander through some of the city's most charming corners: flower-lined front steps, colorful houses, cozy indie bookstores and the kind of character you only notice at walking speed.</p><p><strong>🥞🍦 The TREAT</strong> A real-deal diner serving up pancakes. An awesome taqueria. An old-school ice cream shop. Bookstores worth getting lost in. After all those hills, you've earned every bite. (Bring a little spending money — and an appetite.)</p><p><strong>🍃 Earn Your WILD Leaf</strong> Finish the challenge and take home a hand-carved wooden leaf — WILD on one side, and a nod to Sutro Tower on the other. A keepsake for the mama who climbed every hill, and a reminder of what you can do.</p><p><strong>🚗 We Carpool!</strong> City parking is no joke, so carpooling is strongly encouraged — more time with your crew, less circling the block. We'll coordinate the meeting spot and rides when you sign up. (Planning to leave early? Let us know so we can match you with the right ride.)</p><p><strong><em>A note from Miranda:</em></strong> I am not a professional trainer or fitness instructor. What I am is a mama who loves the outdoors, scouted every step of this route, and believes deeply in what we can accomplish together. Come ready to work hard, listen to your body, and have the time of your life.</p><p><em>Questions? Ready to sign up? Drop a comment, DM, or hit the link below.</em></p><p><strong>You earned this treat. Let's GO. 🍬💪🏾</strong></p>",
-      "currency": "USD",
-      "variants": [
-        {
-          "options": {
-            "Spot": "Standard"
-          },
-          "price": "124.00",
-          "on_sale": false,
-          "unlimited": true
-        },
-        {
-          "options": {
-            "Spot": "Every 10th spot (free)"
-          },
-          "price": "0.00",
-          "on_sale": false,
-          "unlimited": true
-        },
-        {
-          "options": {
-            "Spot": "EARLY BIRD (ENDS SUN., OCT. 25)"
-          },
-          "price": "104.00",
-          "on_sale": false,
-          "stock": 0
-        }
-      ],
-      "images": [
-        {
-          "url": "https://images.squarespace-cdn.com/content/v1/6799541e51aabe5f108a883c/3e411fdd-920c-429b-be32-5015504688ad/sf-moms-secret-stairs-hike.jpg",
-          "alt": "Collage of a moms' power hike across San Francisco: Sutro Tower, the mosaic tiled steps, a mom and child on a wooded path, redwoods and painted houses."
-        }
-      ],
-      "updated": "2026-11-02T06:01:58.916000Z"
-    },
-    {
       "title": "MLK Day Redwoods, Banana Slugs & Ocean Rocks",
       "url": "https://familyadventuresquad.org/adventures/p/1/18-mlk-day-redwood-banana-slugs-peninsula",
       "tags": [
