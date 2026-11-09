@@ -693,7 +693,7 @@
           },
           "price": "40.00",
           "on_sale": false,
-          "unlimited": true
+          "stock": 0
         }
       ],
       "images": [
