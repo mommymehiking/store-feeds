@@ -195,7 +195,7 @@
         "Any level",
         "All ages"
       ],
-      "description_html": "<p>Skip the stuff. Give a day outside together!</p><p>FAS gift cards work for any of our adventures: moms-only hikes, family day outings, camping weekends and more. They arrive by email with a code to use at checkout.</p><p>$40 covers a moms-only day hike</p><p>$65 covers a family day outing</p><p>$100 or $200 goes toward one of our signature camping trips</p>",
+      "description_html": "<p>Skip the stuff. Give a day outside together!</p><p>FAS gift cards work for any of our adventures: moms-only hikes, family day outings, camping weekends and more. They arrive by email with a code to use at checkout.</p><h3>How it works</h3><ul data-rte-list=\"default\"><li><p><strong>Choose any amount</strong> from $25 to $250.</p></li><li><p><strong>Add a personal note.</strong> At checkout, pick Email to Recipient and write up to 80 characters, like “Happy holidays! Pick a trip and I’ll come along. Grandpa”. It lands in their inbox with the gift card code.</p></li><li><p><strong>Saving it for the big day?</strong> Email it to yourself, then print it for a stocking or forward it on the morning.</p></li><li><p><strong>They choose the adventure</strong> and the date, and enter the code at checkout. Anything they don’t spend stays on the card for next time.</p></li><li><p><strong>It never expires,</strong> so there’s no rush: a spring hike, a summer camping weekend or a fall day trip, whenever they’re ready.</p></li></ul><h3>Perfect for</h3><ul data-rte-list=\"default\"><li><p>Grandparents who’d rather give time outside than another toy</p></li><li><p>A new mom ready to get back on the trail, with company</p></li><li><p>The friend who keeps saying “you should get the kids outside more”</p></li></ul><h3>Celebrate any occasion</h3><ul data-rte-list=\"default\"><li><p><strong>The holidays.</strong> Tuck it in a stocking, then plan a day out together in the new year.</p></li><li><p><strong>Birthdays.</strong> Skip the party favors and give a day they’ll still talk about next year.</p></li><li><p><strong>Mother’s Day and Father’s Day.</strong> A morning on the trail with the whole family, or a moms-only hike with friends.</p></li><li><p><strong>A new baby.</strong> Their first family outing, whenever they’re ready for it.</p></li><li><p><strong>The end of the school year.</strong> Start the summer with a camping weekend.</p></li><li><p><strong>Just because.</strong> No reason needed to get outside together.</p></li></ul>",
       "currency": "USD",
       "variants": [
         {
@@ -573,7 +573,7 @@
           "alt": "Two children in caps, one in a blue jacket, on a dirt path through dry grass at Skyline Ridge; adults and kids on the road ahead, a golden hill and wooded ridge under wispy clouds"
         }
       ],
-      "updated": "2026-11-09T18:03:43.988000Z"
+      "updated": "2026-11-12T04:42:22.915000Z"
     }
   ]
 }
