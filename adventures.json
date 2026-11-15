@@ -758,7 +758,7 @@
           },
           "price": "96.00",
           "on_sale": false,
-          "stock": 0
+          "stock": 2
         },
         {
           "options": {
@@ -774,7 +774,7 @@
           },
           "price": "96.00",
           "on_sale": false,
-          "stock": 7
+          "stock": 5
         },
         {
           "options": {
@@ -798,7 +798,7 @@
           },
           "price": "26.00",
           "on_sale": false,
-          "stock": 1
+          "stock": 0
         },
         {
           "options": {
@@ -827,7 +827,7 @@
           "alt": "Upper level of the first class dome car on the Niles Canyon Railway: rows of seats under a curved glass roof for watching the canyon go by"
         }
       ],
-      "updated": "2026-11-12T22:29:21.853000Z"
+      "updated": "2026-11-14T16:15:25.720000Z"
     },
     {
       "title": "Black Friday Monarchs, Tidepools & Beach",
