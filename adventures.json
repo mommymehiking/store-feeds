@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "title": "Moms' Winter Retreat: Cozy Cabin, Yoga, Journal & Fireside Connection in Ancient Redwood Forest",
+      "title": "Moms' Cozy Cabin Retreat: Fireside Connection & Yoga",
       "url": "https://familyadventuresquad.org/adventures/p/moms-redwood-cabin-retreat",
       "tags": [
         "Sat–Sun‚ Jan 23–24",
@@ -67,7 +67,7 @@
           "alt": "Moms' cabin retreat in the Santa Cruz Mountains: a mom roasting a marshmallow by the wood stove, a banana slug, a giant redwood and moms cheering on a ridge"
         }
       ],
-      "updated": "2026-11-10T18:51:22.469000Z"
+      "updated": "2026-11-16T18:20:23.003000Z"
     },
     {
       "title": "MLK Day Redwoods, Banana Slugs & Ocean Rocks",
@@ -717,7 +717,7 @@
           },
           "price": "96.00",
           "on_sale": false,
-          "stock": 2
+          "stock": 0
         },
         {
           "options": {
@@ -733,7 +733,7 @@
           },
           "price": "96.00",
           "on_sale": false,
-          "stock": 2
+          "stock": 1
         },
         {
           "options": {
