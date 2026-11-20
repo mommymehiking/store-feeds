@@ -1165,6 +1165,43 @@
         }
       ],
       "updated": "2026-11-12T18:38:59.431000Z"
+    },
+    {
+      "title": "Liquid Starlight: Family Bioluminescent Kayaking + Camping",
+      "url": "https://familyadventuresquad.org/adventures/p/bioluminescent-kayaking-camping-point-reyes",
+      "tags": [
+        "Sat–Sun, Aug 28–29",
+        "Point Reyes",
+        "Easy",
+        "Ages 5+"
+      ],
+      "description_html": "<p>Watch Tomales Bay glow on a private night kayak tour for kids 5+, then camp under the stars in Point Reyes.</p><p><strong>Saturday, August 28 — Sunday, August 29, 2027 </strong></p><p><strong>Imagine dipping your paddle into the still, dark water of Tomales Bay and watching it erupt into liquid starlight with every stroke — glowing trails following your kayak, tiny plankton lighting up like fireflies beneath the surface. Now imagine bringing your kids along for it. … This August, we're making that possible for families with little ones — a true rare opportunity, as our private guided tour welcomes kids as young as 5, well below the usual public-tour minimum age of 13.</strong></p><p>This is a private tour, not a shared public one — professionally guided, with 1 guide for every 6 people for safety in the dark, and access for kids as young as 5 that public tours don't offer at any price. Your fee covers that private access plus a night of guided camping — FAS will be there planning, running activities and managing logistics all weekend — along with food stop options, a beach afternoon, campfires + s’mores fixins and the Outdoor Adventure Lab for the kids.</p><p>Beyond the magic on the water, we'll spend a night camping under the stars, enjoying a beach afternoon, sampling yummy local eats, and gathering around the campfire together. </p><p>🌟 <strong>PEAK BIOLUMINESCENCE SEASON:</strong> Our kayaking partner tells us late August is peak season for bioluminescence on Tomales Bay, the best time of year to see the water glow. We've also picked a night when the moon will be down, so the glow can really shine.</p><p>Late August is also right in rutting season for Point Reyes' tule elk, so keep your ears open for their bugling calls echoing across the hills — fingers crossed we get a show like we have on past trips! </p><p><strong>Thanks to a special discount from our amazing kayaking partner, we've been able to lower our price from last year! We'll only have 4 spots at $370 per person before the price goes to $390, so grab yours soon.</strong></p><h4><strong><span>WHAT WE'LL ENJOY 🥳</span></strong></h4><p>🛶 <strong>PRIVATE BIOLUMINESCENT KAYAK TOUR:</strong> A private, professionally guided tour, with 1 guide for every 6 people to keep things safe out on the water after dark. Because we hug the shoreline the whole way (no open-water crossings), it's an ideal, route for families with young kids — and gives us more chances to spot bioluminescence glowing in the coves and inlets along the way.</p><p>🧒🏽 <strong>KIDS AS YOUNG AS 5:</strong> This private guided kayaking tour opens the door to families who couldn't otherwise do a public bioluminescent tour, which requires kids to be 13+. A rare chance for younger kids to experience this kind of magic.</p><p>🦌 <strong>TULE ELK RUTTING SEASON (fingers crossed!):</strong> Late August is right in rutting season for Point Reyes' tule elk — bulls bugling, sparring, and herding their harems across the open grasslands. Sightings aren't guaranteed, but we've seen plenty on past trips, so keep your eyes and ears open!</p><p>🦪 <strong>YUMMY LOCAL EATS ALL WEEKEND (OPTIONAL):</strong> From fresh-baked treats to fresh local seafood, there are great eats all along the way. We’ll pick up a pre-ordered picnic lunch on Saturday, there’s an optional early dinner by the beach before kayaking, and we’ll cap off the weekend with a goodbye brunch together in Point Reyes Station on Sunday!</p><p>🔬<strong>OUTDOOR ADVENTURE LAB</strong> available for the kids when we’re at camp (sometimes we are out all day!) — kids earn a nature sticker for each completed activity (rock investigator, critter sleuth, tide pool tracker, and more!), collected in their own nature journal. Plus arts and crafts and an educational scavenger hunt.</p><p>🔥 <strong>CAMPFIRE:</strong> S'mores, stories and stargazing on Saturday night.</p><p>🚗 <strong>EASY CAR CAMPING:</strong> Park close to your tent site — all the joy of sleeping under the stars, none of the logistics headache.</p><p>🌿 <strong>LEAVE NO TRACE ADVENTURE:</strong> We'll talk about what it means to be a responsible steward of a national seashore — and put it into practice all weekend.</p><p>❤️ <strong>COMMUNITY, FRIENDSHIP + SUPPORT:</strong> Instant playdate for the kids — a great mix of ages from toddlers to tweens, all adventuring together. Solo parenting? Forgot gear? Need help with your tent? We've got you.</p><p>🐐 <strong>OH, AND ONE MORE THING —</strong> our campground has a resident herd of goats that typically roam the grounds (not a guarantee; <strong>we’ve seen and not seen them in the past</strong>). They are ridiculously cute and the kids absolutely love them. Consider it a bonus farm animal experience! </p><p><strong>This is our idea of SUMMER CAMP for kids — but it's for the whole family, and we get to explore a different amazing park every time. You will make wonderful memories with your family and friends. 🏕️</strong></p>",
+      "currency": "USD",
+      "variants": [
+        {
+          "options": {
+            "Pricing Types": "EARLY BIRD: $370 PER PERSON, INCLUDES KAYAKING (4 SPOTS ONLY)"
+          },
+          "price": "370.00",
+          "on_sale": false,
+          "stock": 4
+        },
+        {
+          "options": {
+            "Pricing Types": "$390 PER PERSON, INCLUDES KAYAKING"
+          },
+          "price": "390.00",
+          "on_sale": false,
+          "stock": 16
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6799541e51aabe5f108a883c/feab8e64-8b87-49fa-ba8f-4279cb062a71/PR_BIO_Marshall_Collage.jpg",
+          "alt": "Family bioluminescent kayaking and camping in Point Reyes: glowing blue water on Tomales Bay at night, families with kayaks and paddles, a parent and child kayaking, s'mores at camp, kids with lizard"
+        }
+      ],
+      "updated": "2026-11-19T21:43:37.625000Z"
     }
   ]
 }
